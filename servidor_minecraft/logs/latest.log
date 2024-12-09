@@ -34,3 +34,129 @@
 [00:52:58] [Server thread/INFO]: siganconsumiendo[/[0:0:0:0:0:0:0:1%0]:52372] logged in with entity id 4959 at (-9.5, 763.0, 1.5)
 [00:52:58] [Server thread/INFO]: siganconsumiendo joined the game
 [00:53:16] [Server thread/INFO]: [Superpro99871: Teleported Superpro99871 to siganconsumiendo]
+[00:54:13] [Server thread/WARN]: siganconsumiendo moved too quickly! -3.380989043923636,-10.264561426314685,-0.2588275050448843
+[00:54:17] [Server thread/INFO]: siganconsumiendo fell from a high place
+[00:54:46] [Server thread/INFO]: [Superpro99871: Teleported siganconsumiendo to 1.500000, 1400.130000, 21.130000]
+[00:54:49] [Server thread/WARN]: siganconsumiendo moved too quickly! -0.25123532351672395,-11.549749572659039,-0.21351583160522836
+[00:54:51] [Server thread/WARN]: siganconsumiendo moved too quickly! -0.4686764610072922,-12.924399078630586,-1.1833917514186005
+[00:54:55] [Server thread/WARN]: siganconsumiendo moved too quickly! -0.37724675089750037,-15.534714213396228,-1.2397373471556623
+[00:54:57] [Server thread/INFO]: [Superpro99871: Teleported Superpro99871 to siganconsumiendo]
+[00:54:57] [Server thread/WARN]: siganconsumiendo moved too quickly! -0.451477654586794,-12.708162068455522,-1.1919808967069723
+[00:54:59] [Server thread/WARN]: siganconsumiendo moved too quickly! -0.6025831260074277,-11.694736062225502,-1.5697527473763153
+[00:55:01] [Server thread/WARN]: siganconsumiendo moved too quickly! -0.5102346644430193,-11.842011517166384,-1.3291813722413934
+[00:55:40] [Server thread/WARN]: siganconsumiendo moved too quickly! 0.0,-14.258027847911421,0.0
+[00:55:46] [Server thread/WARN]: siganconsumiendo moved too quickly! 0.0,-10.634944238264893,0.04695590418448958
+[00:55:47] [Server thread/INFO]: siganconsumiendo fell from a high place
+[00:56:00] [Server thread/INFO]: siganconsumiendo has made the advancement [Sweet Dreams]
+[00:56:15] [Server thread/WARN]: Superpro99871 moved too quickly! -1.0757609843143658,-14.193603007005095,-0.7160535834848591
+[00:56:23] [Server thread/INFO]: Superpro99871 fell from a high place
+[00:57:57] [Server thread/INFO]: siganconsumiendo has made the advancement [Stone Age]
+[00:58:06] [Server thread/INFO]: siganconsumiendo has made the advancement [Getting an Upgrade]
+[00:58:38] [Server thread/INFO]: Superpro99871 fell from a high place
+[00:59:10] [Server thread/INFO]: [Superpro99871: Applied enchantment Efficiency V to Superpro99871's item]
+[00:59:16] [Server thread/INFO]: Villager cmk['Villager'/65, l='ServerLevel[world]', x=52.48, y=764.00, z=-1.43] died, message: 'Villager was slain by siganconsumiendo'
+[01:00:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=22, y=761, z=-6} jd{x=13, y=743, z=-4}
+[01:00:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=22, y=761, z=-6} jd{x=13, y=745, z=-3}
+[01:00:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=22, y=761, z=-6} jd{x=13, y=743, z=-4}
+[01:00:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=22, y=761, z=-6} jd{x=13, y=743, z=-3}
+[01:00:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=22, y=761, z=-6} jd{x=13, y=746, z=-3}
+[01:01:00] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=22, y=761, z=-6} jd{x=13, y=746, z=-3}
+[01:01:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=22, y=761, z=-6} jd{x=13, y=746, z=-3}
+[01:01:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=22, y=761, z=-6} jd{x=13, y=746, z=-3}
+[01:01:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=22, y=761, z=-6} jd{x=13, y=746, z=-3}
+[01:01:04] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=22, y=761, z=-6} jd{x=13, y=746, z=-3}
+[01:01:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=22, y=761, z=-6} jd{x=13, y=745, z=-3}
+[01:01:11] [Server thread/WARN]: siganconsumiendo moved too quickly! -0.7276624252569448,-11.30545851823399,-0.8585972048497457
+[01:01:12] [Server thread/INFO]: siganconsumiendo fell from a high place
+[01:01:27] [Server thread/INFO]: [Superpro99871: Teleported Superpro99871 to siganconsumiendo]
+[01:01:58] [Server thread/WARN]: siganconsumiendo moved too quickly! -0.638224137685981,-12.497343670013834,-0.5004866315238612
+[01:01:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=10, y=690, z=-12}
+[01:01:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=10, y=690, z=-12}
+[01:01:59] [Server thread/INFO]: siganconsumiendo fell from a high place
+[01:02:10] [Server thread/INFO]: siganconsumiendo lost connection: You logged in from another location
+[01:02:10] [Server thread/INFO]: siganconsumiendo left the game
+[01:02:11] [Server thread/WARN]: handleDisconnection() called twice
+[01:02:14] [Server thread/INFO]: siganconsumiendo[/[0:0:0:0:0:0:0:1%0]:49526] logged in with entity id 6422 at (58.73819358943279, 771.0, 5.256314670237105)
+[01:02:14] [Server thread/INFO]: siganconsumiendo joined the game
+[01:02:24] [Server thread/INFO]: Superpro99871 fell from a high place
+[01:02:30] [Server thread/INFO]: siganconsumiendo lost connection: You logged in from another location
+[01:02:30] [Server thread/INFO]: siganconsumiendo left the game
+[01:02:32] [Server thread/INFO]: siganconsumiendo[/[0:0:0:0:0:0:0:1%0]:44792] logged in with entity id 6504 at (55.8650753600662, 770.9375, 7.101239330905468)
+[01:02:32] [Server thread/INFO]: siganconsumiendo joined the game
+[01:02:46] [Server thread/INFO]: Superpro99871 fell from a high place
+[01:02:58] [Server thread/INFO]: siganconsumiendo fell from a high place
+[01:03:23] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=34, y=765, z=5} jd{x=12, y=765, z=7}
+[01:03:32] [Server thread/WARN]: siganconsumiendo moved too quickly! -0.2260941847171445,-15.998530816821017,-0.9861449738787336
+[01:03:35] [Server thread/WARN]: siganconsumiendo moved too quickly! 0.9833866916226199,-13.13631135272658,-0.1085168700391641
+[01:03:53] [Server thread/INFO]: siganconsumiendo was slain by Zombie
+[01:03:59] [Server thread/INFO]: Superpro99871 fell from a high place
+[01:04:07] [Server thread/INFO]: [Superpro99871: Teleported Superpro99871 to siganconsumiendo]
+[01:04:17] [Server thread/INFO]: siganconsumiendo lost connection: Timed out
+[01:04:17] [Server thread/INFO]: siganconsumiendo left the game
+[01:04:21] [Server thread/INFO]: siganconsumiendo[/[0:0:0:0:0:0:0:1%0]:58060] logged in with entity id 7148 at (62.98310598789528, 771.0, 5.300000011920929)
+[01:04:21] [Server thread/INFO]: siganconsumiendo joined the game
+[01:04:45] [Server thread/INFO]: Superpro99871 fell from a high place
+[01:04:51] [Server thread/INFO]: siganconsumiendo lost connection: Timed out
+[01:04:51] [Server thread/INFO]: siganconsumiendo left the game
+[01:05:06] [Server thread/INFO]: Superpro99871 fell from a high place
+[01:05:25] [Server thread/INFO]: Superpro99871 fell from a high place
+[01:06:15] [Server thread/INFO]: Superpro99871 fell from a high place
+[01:06:34] [Server thread/INFO]: Superpro99871 fell from a high place
+[01:06:55] [Server thread/INFO]: Superpro99871 fell from a high place
+[01:09:01] [Server thread/INFO]: [Superpro99871: Set own game mode to Spectator Mode]
+[01:10:00] [Server thread/INFO]: [Superpro99871: Set own game mode to Survival Mode]
+[01:10:15] [Server thread/INFO]: siganconsumiendo[/[0:0:0:0:0:0:0:1%0]:50488] logged in with entity id 8442 at (62.13822572935166, 771.0, 5.439205843620394)
+[01:10:15] [Server thread/INFO]: siganconsumiendo joined the game
+[01:11:29] [Server thread/INFO]: siganconsumiendo was shot by Stray
+[01:11:35] [Server thread/INFO]: Superpro99871 has made the advancement [Not Today, Thank You]
+[01:12:30] [Server thread/INFO]: siganconsumiendo has made the advancement [Acquire Hardware]
+[01:12:56] [Server thread/INFO]: siganconsumiendo has made the advancement [Monster Hunter]
+[01:13:15] [Server thread/INFO]: [Superpro99871: Teleported Superpro99871 to siganconsumiendo]
+[01:13:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=92, y=778, z=-9} jd{x=12, y=749, z=-4}
+[01:13:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=92, y=778, z=-9} jd{x=11, y=749, z=-5}
+[01:13:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=92, y=778, z=-9} jd{x=12, y=749, z=-4}
+[01:13:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=92, y=778, z=-9} jd{x=12, y=750, z=-4}
+[01:13:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=92, y=778, z=-9} jd{x=12, y=749, z=-4}
+[01:13:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=92, y=778, z=-9} jd{x=12, y=750, z=-4}
+[01:13:23] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=92, y=778, z=-9} jd{x=12, y=749, z=-4}
+[01:13:32] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=92, y=778, z=-9} jd{x=13, y=745, z=-9}
+[01:13:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=92, y=778, z=-9} jd{x=13, y=746, z=-9}
+[01:13:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=92, y=778, z=-9} jd{x=14, y=745, z=-9}
+[01:13:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=92, y=778, z=-9} jd{x=13, y=746, z=-10}
+[01:13:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=92, y=778, z=-9} jd{x=13, y=746, z=-9}
+[01:13:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=92, y=778, z=-9} jd{x=14, y=745, z=-9}
+[01:13:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=92, y=778, z=-9} jd{x=14, y=745, z=-10}
+[01:13:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=92, y=778, z=-9} jd{x=13, y=746, z=-9}
+[01:13:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=92, y=778, z=-9} jd{x=15, y=745, z=-10}
+[01:13:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=92, y=778, z=-9} jd{x=15, y=746, z=-11}
+[01:13:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=92, y=778, z=-9} jd{x=15, y=747, z=-11}
+[01:13:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=92, y=778, z=-9} jd{x=15, y=747, z=-11}
+[01:13:45] [Server thread/INFO]: siganconsumiendo fell from a high place
+[01:13:57] [Server thread/INFO]: Superpro99871 fell from a high place
+[01:15:11] [Server thread/INFO]: siganconsumiendo fell from a high place
+[01:16:10] [Server thread/WARN]: siganconsumiendo moved too quickly! -0.5580531625763783,-10.287592896255092,0.1213006863197883
+[01:16:11] [Server thread/INFO]: Superpro99871 fell from a high place
+[01:16:58] [Server thread/INFO]: [Superpro99871: Teleported Superpro99871 to siganconsumiendo]
+[01:16:59] [Server thread/INFO]: Superpro99871 fell from a high place
+[01:17:02] [Server thread/INFO]: siganconsumiendo fell from a high place
+[01:17:36] [Server thread/INFO]: Superpro99871 fell from a high place
+[01:18:10] [Server thread/INFO]: Superpro99871 fell from a high place
+[01:18:59] [Server thread/INFO]: Superpro99871 has made the advancement [Take Aim]
+[01:19:02] [Server thread/INFO]: Superpro99871 fell from a high place
+[01:19:59] [Server thread/INFO]: siganconsumiendo was shot by Superpro99871
+[01:20:43] [Server thread/INFO]: siganconsumiendo has made the advancement [Suit Up]
+[01:21:47] [Server thread/INFO]: Superpro99871 fell from a high place
+[01:22:24] [Server thread/INFO]: Superpro99871 has made the advancement [Suit Up]
+[01:22:49] [Server thread/INFO]: [Superpro99871: Teleported Superpro99871 to siganconsumiendo]
+[01:25:07] [Server thread/INFO]: siganconsumiendo fell from a high place
+[01:25:42] [Server thread/INFO]: [Superpro99871: Teleported Superpro99871 to siganconsumiendo]
+[01:25:50] [Server thread/INFO]: Superpro99871 was slain by Zombie
+[01:26:23] [Server thread/INFO]: siganconsumiendo has made the advancement [Isn't It Iron Pick]
+[01:27:56] [Server thread/INFO]: siganconsumiendo was slain by Superpro99871
+[01:27:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=67, y=771, z=8}
+[01:28:03] [Server thread/INFO]: Superpro99871 was slain by Enderman
+[01:30:14] [Server thread/INFO]: siganconsumiendo was slain by Zombie
+[01:37:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=62, y=771, z=13} jd{x=13, y=764, z=7}
+[01:37:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=62, y=771, z=13} jd{x=13, y=764, z=7}
+[01:37:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=62, y=771, z=13} jd{x=13, y=765, z=7}
+[01:43:25] [Server thread/INFO]: siganconsumiendo was slain by Zombie
