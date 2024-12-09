@@ -46,3 +46,6 @@
 [17:27:03] [Server thread/INFO]: Superpro99871 lost connection: Disconnected
 [17:27:03] [Server thread/INFO]: Superpro99871 left the game
 [17:27:03] [Server thread/WARN]: handleDisconnection() called twice
+[18:22:00] [Server thread/INFO]: Superpro99871[/172.30.204.192:54814] logged in with entity id 2484 at (46.799030312248135, 767.0, 22.404357544083762)
+[18:22:00] [Server thread/INFO]: Superpro99871 joined the game
+[18:23:03] [Server thread/INFO]: [Superpro99871: The game is running normally]
