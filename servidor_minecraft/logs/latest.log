@@ -122,3 +122,6 @@
 [22:24:05] [Server thread/INFO]: [Superpro99871: Set own game mode to Creative Mode]
 [22:33:30] [Server thread/INFO]: Superpro99871 lost connection: Timed out
 [22:33:30] [Server thread/INFO]: Superpro99871 left the game
+[22:35:28] [Server thread/INFO]: com.mojang.authlib.GameProfile@4de9f6ca[id=8e263076-cc5b-3395-9ecd-23330e4b76c0,name=Superpro99871,properties={}] lost connection: Disconnected
+[22:35:36] [Server thread/INFO]: Superpro99871[/172.30.204.192:62294] logged in with entity id 23966 at (30.69999998807907, 760.0, 22.57423364983682)
+[22:35:36] [Server thread/INFO]: Superpro99871 joined the game
