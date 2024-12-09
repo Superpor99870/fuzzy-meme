@@ -525,7 +525,9 @@
     "criteria": {
       "spider_eye": "2024-12-09 00:20:28 +0000",
       "cooked_rabbit": "2024-12-09 00:26:22 +0000",
+      "cooked_chicken": "2024-12-09 02:44:35 +0000",
       "rotten_flesh": "2024-12-08 15:37:05 +0000",
+      "golden_carrot": "2024-12-09 02:52:11 +0000",
       "carrot": "2024-12-09 00:22:00 +0000"
     },
     "done": false
@@ -1130,6 +1132,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flow_armor_trim_smithing_template": {
+    "criteria": {
+      "has_flow_armor_trim_smithing_template": "2024-12-09 02:53:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_tuff_wall": {
+    "criteria": {
+      "has_polished_tuff": "2024-12-09 02:48:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_waxed_oxidized_copper_stonecutting": {
     "criteria": {
       "has_waxed_oxidized_copper": "2024-12-09 02:38:37 +0000"
@@ -1154,9 +1168,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2024-12-09 02:48:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/minecraft_trials_edition": {
     "criteria": {
       "minecraft_trials_edition": "2024-12-09 02:28:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2024-12-09 02:48:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bolt_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-09 02:49:48 +0000"
     },
     "done": true
   },
@@ -1226,6 +1258,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_tuff_slab_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2024-12-09 02:48:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_brick_stairs": {
     "criteria": {
       "has_tuff_bricks": "2024-12-09 02:38:37 +0000"
@@ -1237,6 +1275,12 @@
       "has_diamond": "2024-12-09 02:37:46 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2024-12-09 02:44:20 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
@@ -1256,6 +1300,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flow_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-09 02:53:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_candle": {
     "criteria": {
       "has_yellow_dye": "2024-12-09 02:20:26 +0000"
@@ -1268,9 +1318,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-09 02:53:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/under_lock_and_key": {
     "criteria": {
       "under_lock_and_key": "2024-12-09 02:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/revaulting": {
+    "criteria": {
+      "revaulting": "2024-12-09 02:47:23 +0000"
     },
     "done": true
   },
@@ -1310,6 +1372,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_tuff_stairs": {
+    "criteria": {
+      "has_polished_tuff": "2024-12-09 02:48:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper": {
     "criteria": {
       "has_waxed_oxidized_copper": "2024-12-09 02:38:37 +0000"
@@ -1322,9 +1390,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_tuff_stairs_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2024-12-09 02:48:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-09 02:28:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_slab": {
+    "criteria": {
+      "has_polished_tuff": "2024-12-09 02:48:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2024-12-09 02:48:02 +0000"
     },
     "done": true
   },
@@ -1364,6 +1450,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/tuff_bricks": {
+    "criteria": {
+      "has_polished_tuff": "2024-12-09 02:48:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_yellow_bed": {
     "criteria": {
       "has_needed_dye": "2024-12-09 02:20:26 +0000"
@@ -1382,6 +1474,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_tuff_wall_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2024-12-09 02:48:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2024-12-09 02:37:46 +0000"
@@ -1397,6 +1495,18 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-09 02:37:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_bricks_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2024-12-09 02:48:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-09 02:53:28 +0000"
     },
     "done": true
   },
@@ -1442,9 +1552,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bolt_armor_trim_smithing_template": {
+    "criteria": {
+      "has_bolt_armor_trim_smithing_template": "2024-12-09 02:49:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_oxidized_copper_grate_from_waxed_oxidized_copper_stonecutting": {
     "criteria": {
       "has_waxed_oxidized_copper": "2024-12-09 02:38:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_polished_tuff_stonecutting": {
+    "criteria": {
+      "has_polished_tuff": "2024-12-09 02:48:02 +0000"
     },
     "done": true
   },
