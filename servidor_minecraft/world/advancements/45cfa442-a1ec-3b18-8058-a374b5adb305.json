@@ -1334,6 +1334,18 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-01-02 23:56:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-02 23:55:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2025-01-02 23:15:28 +0000"
@@ -1451,6 +1463,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-01-02 22:46:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-01-02 23:56:28 +0000"
     },
     "done": true
   },

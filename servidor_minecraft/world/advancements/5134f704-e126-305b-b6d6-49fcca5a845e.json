@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-01-02 23:30:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-01-02 22:27:55 +0000"
@@ -86,6 +92,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-01-02 23:09:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-02 23:56:07 +0000"
     },
     "done": true
   },
@@ -614,15 +626,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-01-02 23:56:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2025-01-02 23:25:50 +0000"
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-02 23:33:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-01-02 23:12:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-01-02 23:30:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-01-02 23:30:58 +0000"
     },
     "done": true
   },
@@ -767,6 +803,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-01-02 23:30:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-01-02 22:27:55 +0000"
@@ -827,6 +869,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-01-02 23:30:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-01-02 22:49:36 +0000"
@@ -881,6 +929,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-01-02 23:30:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-01-02 22:43:32 +0000"
@@ -920,6 +974,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-01-02 23:09:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-01-02 23:30:58 +0000"
     },
     "done": true
   },
@@ -1019,6 +1079,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-01-02 23:30:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/netherite_armor": {
     "criteria": {
       "netherite_armor": "2025-01-02 23:13:26 +0000"
@@ -1034,6 +1100,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-01-02 22:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-01-02 23:30:58 +0000"
     },
     "done": true
   },

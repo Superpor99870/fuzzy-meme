@@ -241,3 +241,31 @@
 [23:22:08] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
 [23:22:22] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
 [23:27:54] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=60, y=768, z=23} jd{x=87, y=778, z=3}
+[23:32:44] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[23:33:02] [Server thread/INFO]: Akukis has made the advancement [Sweet Dreams]
+[23:33:20] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[23:33:27] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[23:36:52] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=82, y=773, z=30} jd{x=85, y=800, z=-1}
+[23:36:59] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[23:37:03] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[23:37:13] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=90, y=800, z=2} jd{x=88, y=800, z=3}
+[23:37:34] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[23:38:29] [Server thread/INFO]: siganconsumiendo was doomed to fall by Akukis
+[23:38:46] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
+[23:39:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=77, y=803, z=0}
+[23:41:05] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[23:41:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=88, y=802, z=4} jd{x=77, y=803, z=10}
+[23:41:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=77, y=803, z=9} jd{x=81, y=803, z=-1}
+[23:43:06] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[23:43:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=86, y=802, z=10}
+[23:43:46] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
+[23:45:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=77, y=803, z=9} jd{x=88, y=805, z=12}
+[23:46:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=77, y=803, z=9} jd{x=98, y=803, z=0}
+[23:49:26] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
+[23:54:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=90, y=804, z=-8} jd{x=96, y=806, z=11}
+[23:55:26] [Server thread/INFO]: siganconsumiendo has made the advancement [Hot Stuff]
+[23:55:30] [Server thread/INFO]: siganconsumiendo tried to swim in lava
+[23:55:45] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
+[23:56:07] [Server thread/INFO]: Akukis has made the advancement [Hot Stuff]
+[23:56:28] [Server thread/INFO]: siganconsumiendo has made the advancement [Who is Cutting Onions?]
+[23:57:32] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=79, y=803, z=-1} jd{x=96, y=803, z=0}
