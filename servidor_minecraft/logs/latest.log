@@ -228,3 +228,16 @@
 [23:16:48] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-53, y=16, z=-184} jd{x=-54, y=16, z=-184}
 [23:17:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-47, y=14, z=-182} jd{x=-57, y=13, z=-191}
 [23:17:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-47, y=14, z=-182} jd{x=-57, y=13, z=-191}
+[23:19:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-62, y=15, z=-258} jd{x=-64, y=15, z=-258}
+[23:19:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-62, y=15, z=-258} jd{x=-65, y=15, z=-258}
+[23:19:06] [Server thread/INFO]: Akukis was killed
+[23:19:06] [Server thread/INFO]: [Akukis: Killed Akukis]
+[23:19:10] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-83, y=14, z=-258} jd{x=-84, y=14, z=-258}
+[23:19:10] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-83, y=14, z=-258} jd{x=-86, y=13, z=-258}
+[23:19:10] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-83, y=14, z=-258} jd{x=-86, y=13, z=-258}
+[23:19:43] [Server thread/INFO]: siganconsumiendo was killed
+[23:19:43] [Server thread/INFO]: [Akukis: Killed siganconsumiendo]
+[23:20:23] [Server thread/INFO]: siganconsumiendo has made the advancement [Hidden in the Depths]
+[23:22:08] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[23:22:22] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[23:27:54] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=60, y=768, z=23} jd{x=87, y=778, z=3}
