@@ -105,3 +105,32 @@
 [22:55:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=141, y=12, z=34} jd{x=140, y=11, z=34}
 [22:57:01] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
 [22:57:30] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[23:00:01] [Server thread/INFO]: Locating element minecraft:bastion_remnant took 0 ms
+[23:00:05] [Server thread/INFO]: [Akukis: Teleported Akukis to 32.500000, 102.000000, -143.500000]
+[23:00:14] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[23:00:20] [Server thread/INFO]: Akukis has made the advancement [Those Were the Days]
+[23:00:36] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[23:00:43] [Server thread/INFO]: Akukis was slain by Piglin Brute
+[23:01:23] [Server thread/INFO]: [Akukis: Teleported Akukis to 32.500000, 102.000000, -143.500000]
+[23:01:28] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[23:01:36] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[23:01:40] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
+[23:01:40] [Server thread/INFO]: siganconsumiendo has made the advancement [Those Were the Days]
+[23:01:58] [Server thread/INFO]: siganconsumiendo was slain by Piglin
+[23:02:10] [Server thread/INFO]: Akukis was slain by Piglin Brute
+[23:02:19] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[23:02:44] [Server thread/INFO]: [Akukis: Teleported Akukis to 32.500000, 102.000000, -143.500000]
+[23:02:48] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[23:03:08] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[23:03:15] [Server thread/INFO]: Akukis has made the advancement [War Pigs]
+[23:03:21] [Server thread/INFO]: Akukis has made the advancement [Who is Cutting Onions?]
+[23:04:06] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[23:04:51] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[23:05:15] [Server thread/INFO]: Akukis has made the advancement [Oh Shiny]
+[23:05:17] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[23:05:31] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[23:06:02] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
+[23:06:19] [Server thread/INFO]: siganconsumiendo tried to swim in lava
+[23:06:48] [Server thread/INFO]: Akukis was slain by Piglin Brute
+[23:07:25] [Server thread/INFO]: [Akukis: Teleported Akukis to 32.500000, 102.000000, -143.500000]
+[23:07:27] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
