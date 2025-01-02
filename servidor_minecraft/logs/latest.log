@@ -39,3 +39,20 @@
 [18:46:40] [Server thread/INFO]: [Superpro99871: Teleported Superpro99871 to siganconsumiendo]
 [18:47:32] [Server thread/INFO]: siganconsumiendo was shot by Superpro99871
 [18:49:11] [Server thread/INFO]: siganconsumiendo has made the advancement [We Need to Go Deeper]
+[18:52:57] [Server thread/INFO]: [Superpro99871: Teleported Superpro99871 to siganconsumiendo]
+[18:53:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=55, y=768, z=13} jd{x=55, y=766, z=13}
+[18:53:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=55, y=768, z=13} jd{x=55, y=766, z=13}
+[18:53:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=55, y=768, z=13} jd{x=55, y=766, z=13}
+[18:53:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=56, y=768, z=14} jd{x=57, y=766, z=15}
+[18:53:28] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=60, y=768, z=14} jd{x=61, y=766, z=14}
+[18:53:28] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=60, y=768, z=14} jd{x=61, y=766, z=14}
+[18:53:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=79, y=768, z=12} jd{x=79, y=766, z=14}
+[18:53:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=79, y=768, z=12} jd{x=79, y=766, z=14}
+[18:54:23] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=55, y=768, z=25} jd{x=54, y=766, z=26}
+[18:55:05] [Server thread/INFO]: Superpro99871 was burned to a crisp while fighting Zombie
+[18:56:45] [Server thread/INFO]: [Superpro99871: Set own game mode to Spectator Mode]
+[18:57:11] [Server thread/INFO]: [Superpro99871: Set own game mode to Survival Mode]
+[18:58:29] [Server thread/INFO]: siganconsumiendo was slain by Superpro99871
+[18:59:46] [Server thread/INFO]: Superpro99871 has made the advancement [A Seedy Place]
+[19:00:48] [Server thread/INFO]: siganconsumiendo has made the advancement [A Seedy Place]
+[19:01:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=55, y=767, z=9} jd{x=55, y=768, z=9}
