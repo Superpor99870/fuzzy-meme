@@ -56,3 +56,21 @@
 [18:59:46] [Server thread/INFO]: Superpro99871 has made the advancement [A Seedy Place]
 [19:00:48] [Server thread/INFO]: siganconsumiendo has made the advancement [A Seedy Place]
 [19:01:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=55, y=767, z=9} jd{x=55, y=768, z=9}
+[19:03:34] [Server thread/INFO]: Superpro99871 was slain by siganconsumiendo
+[19:04:03] [Server thread/INFO]: [Superpro99871: Set own game mode to Spectator Mode]
+[19:04:14] [Server thread/INFO]: [Superpro99871: Teleported Superpro99871 to siganconsumiendo]
+[19:04:57] [Server thread/INFO]: [Superpro99871: Set own game mode to Survival Mode]
+[19:06:38] [Server thread/INFO]: [Superpro99871: Gave 1 [Diamond Hoe] to Superpro99871]
+[19:08:16] [Server thread/INFO]: siganconsumiendo was doomed to fall by Superpro99871
+[19:08:31] [Server thread/WARN]: siganconsumiendo moved too quickly! -0.13974190329374636,-19.247992255990425,0.23893255972973115
+[19:08:33] [Server thread/WARN]: siganconsumiendo moved too quickly! 0.0,-11.558953062305477,0.0
+[19:08:38] [Server thread/INFO]: siganconsumiendo fell from a high place
+[19:10:15] [Server thread/INFO]: [Superpro99871: Teleported Superpro99871 to siganconsumiendo]
+[19:10:20] [Server thread/INFO]: siganconsumiendo was slain by Zombie
+[19:10:33] [Server thread/INFO]: [Superpro99871: Teleported Superpro99871 to siganconsumiendo]
+[19:11:36] [Server thread/INFO]: siganconsumiendo was killed
+[19:11:36] [Server thread/INFO]: [Superpro99871: Killed siganconsumiendo]
+[19:12:13] [Server thread/INFO]: siganconsumiendo lost connection: Timed out
+[19:12:13] [Server thread/INFO]: siganconsumiendo left the game
+[19:12:13] [Server thread/WARN]: handleDisconnection() called twice
+[19:12:35] [Server thread/INFO]: [Superpro99871: Set own game mode to Creative Mode]
