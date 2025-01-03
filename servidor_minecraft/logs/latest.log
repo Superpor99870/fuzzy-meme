@@ -78,3 +78,6 @@
 [00:21:38] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
 [00:25:16] [Server thread/INFO]: Akukis lost connection: Timed out
 [00:25:16] [Server thread/INFO]: Akukis left the game
+[00:30:03] [Server thread/INFO]: siganconsumiendo lost connection: Timed out
+[00:30:03] [Server thread/INFO]: siganconsumiendo left the game
+[00:30:03] [Server thread/WARN]: handleDisconnection() called twice
