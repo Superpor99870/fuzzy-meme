@@ -37,3 +37,14 @@
 [21:40:25] [Server thread/INFO]: [Akukis: Set siganconsumiendo's game mode to Survival Mode]
 [21:40:54] [Server thread/INFO]: siganconsumiendo fell from a high place
 [21:43:05] [Server thread/INFO]: siganconsumiendo was slain by Akukis
+[21:46:42] [Server thread/INFO]: siganconsumiendo was slain by Zombie
+[21:48:49] [Server thread/INFO]: Akukis has made the advancement [A Seedy Place]
+[21:53:08] [Server thread/INFO]: [Akukis: Teleported Akukis to -767.500000, 767.000000, -3823.500000]
+[21:53:24] [Server thread/WARN]: Akukis moved too quickly! 0.0,-10.806526110009258,0.0
+[21:53:24] [Server thread/WARN]: siganconsumiendo moved too quickly! -10.09614884722653,0.0625,1.0787813825031236
+[21:53:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16704ms or 334 ticks behind
+[21:53:28] [Server thread/INFO]: Akukis fell from a high place
+[21:53:49] [Server thread/INFO]: [Akukis: Teleported Akukis to -767.500000, 102.000000, -3823.500000]
+[21:53:55] [Server thread/WARN]: Akukis moved too quickly! 0.0,-10.806526110008988,0.0
+[21:53:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6134ms or 122 ticks behind
+[21:54:07] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
