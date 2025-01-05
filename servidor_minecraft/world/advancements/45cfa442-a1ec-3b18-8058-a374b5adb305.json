@@ -519,16 +519,17 @@
     "criteria": {
       "minecraft:blaze": "2025-01-02 22:38:17 +0000",
       "minecraft:skeleton": "2024-12-09 02:29:18 +0000",
-      "minecraft:piglin": "2025-01-02 23:01:57 +0000",
       "minecraft:zombified_piglin": "2025-01-02 18:51:27 +0000",
+      "minecraft:witch": "2025-01-03 00:22:26 +0000",
+      "minecraft:hoglin": "2025-01-05 21:55:09 +0000",
+      "minecraft:piglin": "2025-01-02 23:01:57 +0000",
       "minecraft:enderman": "2024-12-09 01:28:23 +0000",
       "minecraft:stray": "2024-12-09 02:05:06 +0000",
       "minecraft:magma_cube": "2025-01-02 22:43:49 +0000",
-      "minecraft:witch": "2025-01-03 00:22:26 +0000",
       "minecraft:spider": "2024-12-09 01:26:53 +0000",
+      "minecraft:piglin_brute": "2025-01-05 22:02:30 +0000",
       "minecraft:zombie": "2024-12-09 01:25:50 +0000",
-      "minecraft:creeper": "2024-12-09 01:12:56 +0000",
-      "minecraft:hoglin": "2025-01-05 21:55:09 +0000"
+      "minecraft:creeper": "2024-12-09 01:12:56 +0000"
     },
     "done": false
   },
@@ -564,6 +565,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-01-05 22:03:10 +0000",
       "bread": "2025-01-02 23:09:03 +0000",
       "golden_apple": "2025-01-05 21:46:17 +0000",
       "cooked_chicken": "2025-01-02 18:22:35 +0000",
@@ -1823,9 +1825,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-01-05 22:02:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-05 21:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-01-05 22:02:40 +0000"
     },
     "done": true
   },
@@ -1838,6 +1852,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-01-05 21:55:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-01-05 22:02:33 +0000"
     },
     "done": true
   },
@@ -1856,6 +1876,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-05 21:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-01-05 22:02:15 +0000"
     },
     "done": true
   },
@@ -1880,6 +1906,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-05 21:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-01-05 22:02:15 +0000"
     },
     "done": true
   },

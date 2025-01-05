@@ -67,3 +67,8 @@
 [22:01:51] [Server thread/INFO]: siganconsumiendo burned to death
 [22:02:03] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
 [22:02:33] [Server thread/INFO]: siganconsumiendo has made the advancement [War Pigs]
+[22:06:46] [Server thread/INFO]: siganconsumiendo was burned to a crisp while fighting Akukis
+[22:06:53] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
+[22:07:41] [Server thread/INFO]: siganconsumiendo lost connection: Timed out
+[22:07:41] [Server thread/INFO]: siganconsumiendo left the game
+[22:07:41] [Server thread/WARN]: handleDisconnection() called twice
