@@ -1,83 +1,39 @@
-[00:00:15] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
-[00:00:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=85, y=803, z=-7} jd{x=89, y=804, z=9}
-[00:02:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=88, y=802, z=-1} jd{x=83, y=806, z=1}
-[00:02:29] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[00:02:32] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[00:02:51] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
-[00:04:39] [Server thread/INFO]: Akukis fell from a high place
-[00:04:42] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[00:04:56] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
-[00:04:57] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[00:05:29] [Server thread/INFO]: siganconsumiendo fell from a high place
-[00:06:31] [Server thread/INFO]: [Akukis: Gave 32 [Glass] to Akukis]
-[00:07:24] [Server thread/INFO]: [Akukis: Gave 32 [Glass] to Akukis]
-[00:08:38] [Server thread/INFO]: Akukis fell from a high place
-[00:08:50] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[00:09:03] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[00:10:28] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[00:10:45] [Server thread/INFO]: [Akukis: Applied effect Night Vision to Akukis]
-[00:11:03] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[00:11:09] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
-[00:12:13] [Server thread/INFO]: siganconsumiendo was doomed to fall by Akukis
-[00:12:20] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
-[00:12:34] [Server thread/INFO]: Akukis fell from a high place
-[00:12:38] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
-[00:12:43] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
-[00:12:53] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[00:13:00] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[00:13:12] [Server thread/INFO]: Akukis has made the advancement [Ice Bucket Challenge]
-[00:13:35] [Server thread/INFO]: siganconsumiendo tried to swim in lava
-[00:13:59] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
-[00:14:07] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[00:14:31] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[00:15:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=62, y=766, z=19} jd{x=63, y=766, z=19}
-[00:16:23] [Server thread/INFO]: siganconsumiendo was slain by Akukis
-[00:17:14] [Server thread/INFO]: [Akukis: Gave 99999999 experience points to Akukis]
-[00:17:40] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
-[00:17:43] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[00:18:07] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[00:19:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=26, y=763, z=-7} jd{x=25, y=761, z=-8}
-[00:19:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=26, y=763, z=-7} jd{x=25, y=761, z=-8}
-[00:19:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=26, y=763, z=-7} jd{x=25, y=761, z=-8}
-[00:19:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=26, y=763, z=-7} jd{x=25, y=761, z=-8}
-[00:19:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=26, y=763, z=-7} jd{x=25, y=761, z=-8}
-[00:19:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=26, y=763, z=-7} jd{x=25, y=761, z=-8}
-[00:19:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=26, y=763, z=-7} jd{x=25, y=761, z=-8}
-[00:19:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=27, y=765, z=-9} jd{x=25, y=761, z=-8}
-[00:19:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=27, y=765, z=-10} jd{x=25, y=761, z=-8}
-[00:19:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=27, y=765, z=-10} jd{x=25, y=761, z=-8}
-[00:19:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=27, y=765, z=-10} jd{x=25, y=761, z=-8}
-[00:19:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=27, y=765, z=-10} jd{x=25, y=761, z=-8}
-[00:19:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=27, y=765, z=-10} jd{x=25, y=761, z=-8}
-[00:19:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=27, y=765, z=-10} jd{x=25, y=761, z=-8}
-[00:19:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=27, y=765, z=-10} jd{x=25, y=761, z=-8}
-[00:19:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=27, y=765, z=-10} jd{x=25, y=761, z=-8}
-[00:19:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=27, y=765, z=-10} jd{x=25, y=761, z=-8}
-[00:19:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=27, y=765, z=-10} jd{x=25, y=761, z=-8}
-[00:19:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=27, y=765, z=-10} jd{x=25, y=761, z=-8}
-[00:19:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=27, y=765, z=-10} jd{x=25, y=761, z=-8}
-[00:19:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=27, y=765, z=-10} jd{x=25, y=761, z=-8}
-[00:19:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=27, y=765, z=-10} jd{x=25, y=761, z=-8}
-[00:19:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=27, y=765, z=-10} jd{x=25, y=761, z=-8}
-[00:19:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=28, y=765, z=-10} jd{x=25, y=761, z=-8}
-[00:19:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=23, y=765, z=-12} jd{x=24, y=762, z=-10}
-[00:19:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=24, y=765, z=-12} jd{x=24, y=762, z=-10}
-[00:19:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=23, y=765, z=-11} jd{x=24, y=762, z=-10}
-[00:19:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=23, y=765, z=-11} jd{x=24, y=762, z=-10}
-[00:19:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=23, y=765, z=-11} jd{x=24, y=762, z=-10}
-[00:19:53] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=22, y=761, z=-14} jd{x=16, y=761, z=-14}
-[00:19:53] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=22, y=761, z=-14} jd{x=16, y=761, z=-14}
-[00:19:53] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=22, y=761, z=-14} jd{x=16, y=761, z=-14}
-[00:19:54] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=22, y=761, z=-14} jd{x=16, y=761, z=-14}
-[00:19:54] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=22, y=761, z=-14} jd{x=16, y=761, z=-14}
-[00:19:54] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=22, y=761, z=-14} jd{x=15, y=761, z=-15}
-[00:20:42] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
-[00:20:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=23, y=762, z=-12} jd{x=16, y=761, z=-9}
-[00:20:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=23, y=762, z=-12} jd{x=16, y=761, z=-10}
-[00:20:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=23, y=762, z=-12} jd{x=16, y=761, z=-9}
-[00:21:38] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
-[00:25:16] [Server thread/INFO]: Akukis lost connection: Timed out
-[00:25:16] [Server thread/INFO]: Akukis left the game
-[00:30:03] [Server thread/INFO]: siganconsumiendo lost connection: Timed out
-[00:30:03] [Server thread/INFO]: siganconsumiendo left the game
-[00:30:03] [Server thread/WARN]: handleDisconnection() called twice
+[21:34:34] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:34:35] [ServerMain/WARN]: Pack file/amplified-nether-height.zip declared support for versions [16, 41] but declared main format is 15, defaulting to 15
+[21:34:40] [ServerMain/INFO]: Loaded 1290 recipes
+[21:34:40] [ServerMain/INFO]: Loaded 1399 advancements
+[21:34:41] [Server thread/INFO]: Starting minecraft server version 1.21
+[21:34:41] [Server thread/INFO]: Loading properties
+[21:34:41] [Server thread/INFO]: Default game type: SURVIVAL
+[21:34:41] [Server thread/INFO]: Generating keypair
+[21:34:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:34:41] [Server thread/INFO]: Using epoll channel type
+[21:34:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:34:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:34:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:34:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:34:41] [Server thread/INFO]: Preparing level "world"
+[21:34:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:34:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:34:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:34:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:34:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:34:53] [Worker-Main-1/INFO]: Preparing spawn area: 6%
+[21:34:53] [Worker-Main-1/INFO]: Preparing spawn area: 28%
+[21:34:53] [Server thread/INFO]: Time elapsed: 2678 ms
+[21:34:53] [Server thread/INFO]: Done (12.087s)! For help, type "help"
+[21:36:22] [Server thread/INFO]: siganconsumiendo[/[0:0:0:0:0:0:0:1%0]:51018] logged in with entity id 43 at (40.529676623834646, 760.0625, 21.065646748546712)
+[21:36:22] [Server thread/INFO]: siganconsumiendo joined the game
+[21:36:52] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[21:36:52] [Server thread/INFO]: https://urban-carnival-q79rjrq96jgqcj95.github.dev/tp siganconsumiendo 0 10000 0<--[HERE]
+[21:37:00] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[21:37:00] [Server thread/INFO]: serveo.net:42187serveo.net:42187serveo.net:42187serveo.net:42187serveo.net:42187<--[HERE]
+[21:37:14] [Server thread/INFO]: Teleported siganconsumiendo to 0.500000, 10000.000000, 0.500000
+[21:38:14] [Server thread/WARN]: siganconsumiendo moved too quickly! 0.0,-23.520022887569212,0.0
+[21:38:17] [Server thread/WARN]: siganconsumiendo moved too quickly! 0.0,-11.558953062304681,0.0
+[21:39:03] [Server thread/INFO]: Set siganconsumiendo's game mode to Spectator Mode
+[21:40:04] [Server thread/INFO]: Akukis[/[0:0:0:0:0:0:0:1%0]:54114] logged in with entity id 248 at (92.21605928133773, 777.0, 1.1766135441654908)
+[21:40:04] [Server thread/INFO]: Akukis joined the game
+[21:40:25] [Server thread/INFO]: [Akukis: Set siganconsumiendo's game mode to Survival Mode]
+[21:40:54] [Server thread/INFO]: siganconsumiendo fell from a high place
+[21:43:05] [Server thread/INFO]: siganconsumiendo was slain by Akukis
