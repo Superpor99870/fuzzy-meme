@@ -1,74 +1,88 @@
-[21:34:34] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:34:35] [ServerMain/WARN]: Pack file/amplified-nether-height.zip declared support for versions [16, 41] but declared main format is 15, defaulting to 15
-[21:34:40] [ServerMain/INFO]: Loaded 1290 recipes
-[21:34:40] [ServerMain/INFO]: Loaded 1399 advancements
-[21:34:41] [Server thread/INFO]: Starting minecraft server version 1.21
-[21:34:41] [Server thread/INFO]: Loading properties
-[21:34:41] [Server thread/INFO]: Default game type: SURVIVAL
-[21:34:41] [Server thread/INFO]: Generating keypair
-[21:34:41] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:34:41] [Server thread/INFO]: Using epoll channel type
-[21:34:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:34:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:34:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:34:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:34:41] [Server thread/INFO]: Preparing level "world"
-[21:34:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:34:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:34:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:34:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:34:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:34:53] [Worker-Main-1/INFO]: Preparing spawn area: 6%
-[21:34:53] [Worker-Main-1/INFO]: Preparing spawn area: 28%
-[21:34:53] [Server thread/INFO]: Time elapsed: 2678 ms
-[21:34:53] [Server thread/INFO]: Done (12.087s)! For help, type "help"
-[21:36:22] [Server thread/INFO]: siganconsumiendo[/[0:0:0:0:0:0:0:1%0]:51018] logged in with entity id 43 at (40.529676623834646, 760.0625, 21.065646748546712)
-[21:36:22] [Server thread/INFO]: siganconsumiendo joined the game
-[21:36:52] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[21:36:52] [Server thread/INFO]: https://urban-carnival-q79rjrq96jgqcj95.github.dev/tp siganconsumiendo 0 10000 0<--[HERE]
-[21:37:00] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[21:37:00] [Server thread/INFO]: serveo.net:42187serveo.net:42187serveo.net:42187serveo.net:42187serveo.net:42187<--[HERE]
-[21:37:14] [Server thread/INFO]: Teleported siganconsumiendo to 0.500000, 10000.000000, 0.500000
-[21:38:14] [Server thread/WARN]: siganconsumiendo moved too quickly! 0.0,-23.520022887569212,0.0
-[21:38:17] [Server thread/WARN]: siganconsumiendo moved too quickly! 0.0,-11.558953062304681,0.0
-[21:39:03] [Server thread/INFO]: Set siganconsumiendo's game mode to Spectator Mode
-[21:40:04] [Server thread/INFO]: Akukis[/[0:0:0:0:0:0:0:1%0]:54114] logged in with entity id 248 at (92.21605928133773, 777.0, 1.1766135441654908)
-[21:40:04] [Server thread/INFO]: Akukis joined the game
-[21:40:25] [Server thread/INFO]: [Akukis: Set siganconsumiendo's game mode to Survival Mode]
-[21:40:54] [Server thread/INFO]: siganconsumiendo fell from a high place
-[21:43:05] [Server thread/INFO]: siganconsumiendo was slain by Akukis
-[21:46:42] [Server thread/INFO]: siganconsumiendo was slain by Zombie
-[21:48:49] [Server thread/INFO]: Akukis has made the advancement [A Seedy Place]
-[21:53:08] [Server thread/INFO]: [Akukis: Teleported Akukis to -767.500000, 767.000000, -3823.500000]
-[21:53:24] [Server thread/WARN]: Akukis moved too quickly! 0.0,-10.806526110009258,0.0
-[21:53:24] [Server thread/WARN]: siganconsumiendo moved too quickly! -10.09614884722653,0.0625,1.0787813825031236
-[21:53:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16704ms or 334 ticks behind
-[21:53:28] [Server thread/INFO]: Akukis fell from a high place
-[21:53:49] [Server thread/INFO]: [Akukis: Teleported Akukis to -767.500000, 102.000000, -3823.500000]
-[21:53:55] [Server thread/WARN]: Akukis moved too quickly! 0.0,-10.806526110008988,0.0
-[21:53:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6134ms or 122 ticks behind
-[21:54:07] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
-[21:54:44] [Server thread/INFO]: Akukis was shot by Piglin
-[21:54:55] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
-[21:55:49] [Server thread/INFO]: Akukis was slain by Piglin
-[21:55:56] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
-[21:56:18] [Server thread/INFO]: siganconsumiendo was doomed to fall
-[21:56:26] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
-[21:56:51] [Server thread/INFO]: Akukis was slain by Piglin
-[21:56:54] [Server thread/INFO]: siganconsumiendo burned to death
-[21:56:59] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
-[21:58:09] [Server thread/INFO]: Akukis has made the advancement [Ol' Betsy]
-[21:58:37] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[21:58:38] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[21:59:15] [Server thread/INFO]: [Akukis: Teleported Akukis to -767.500000, 102.000000, -3823.500000]
-[21:59:21] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
-[22:00:39] [Server thread/INFO]: siganconsumiendo was doomed to fall by Piglin Brute
-[22:00:51] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
-[22:01:51] [Server thread/INFO]: siganconsumiendo burned to death
-[22:02:03] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
-[22:02:33] [Server thread/INFO]: siganconsumiendo has made the advancement [War Pigs]
-[22:06:46] [Server thread/INFO]: siganconsumiendo was burned to a crisp while fighting Akukis
-[22:06:53] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
-[22:07:41] [Server thread/INFO]: siganconsumiendo lost connection: Timed out
-[22:07:41] [Server thread/INFO]: siganconsumiendo left the game
-[22:07:41] [Server thread/WARN]: handleDisconnection() called twice
+[20:10:15] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.3
+[20:10:16] [main/INFO]: Loading 45 mods:
+	- chunky 1.4.16
+	- cloth-config 15.0.140
+	   \-- cloth-basic-math 0.6.1
+	- fabric-api 0.102.0+1.21
+	   |-- fabric-api-base 0.4.42+6573ed8cd1
+	   |-- fabric-api-lookup-api-v1 1.6.68+b5597344d1
+	   |-- fabric-biome-api-v1 13.0.29+5bd9f1bcd1
+	   |-- fabric-block-api-v1 1.0.22+0af3f5a7d1
+	   |-- fabric-block-view-api-v2 1.0.10+6573ed8cd1
+	   |-- fabric-blockrenderlayer-v1 1.1.52+0af3f5a7d1
+	   |-- fabric-client-tags-api-v1 1.1.15+6573ed8cd1
+	   |-- fabric-command-api-v1 1.2.49+f71b366fd1
+	   |-- fabric-command-api-v2 2.2.28+6ced4dd9d1
+	   |-- fabric-commands-v0 0.2.66+df3654b3d1
+	   |-- fabric-content-registries-v0 8.0.16+b5597344d1
+	   |-- fabric-convention-tags-v1 2.0.19+7f945d5bd1
+	   |-- fabric-convention-tags-v2 2.5.0+c5e2b5c6d1
+	   |-- fabric-crash-report-info-v1 0.2.29+0af3f5a7d1
+	   |-- fabric-data-attachment-api-v1 1.1.27+6a6dfa19d1
+	   |-- fabric-data-generation-api-v1 20.2.16+16c4ae25d1
+	   |-- fabric-dimensions-v1 4.0.0+6fc22b99d1
+	   |-- fabric-entity-events-v1 1.6.12+6fc22b99d1
+	   |-- fabric-events-interaction-v0 0.7.12+ba9dae06d1
+	   |-- fabric-game-rule-api-v1 1.0.53+6ced4dd9d1
+	   |-- fabric-item-api-v1 11.0.0+afdfc921d1
+	   |-- fabric-item-group-api-v1 4.1.4+78017270d1
+	   |-- fabric-key-binding-api-v1 1.0.47+0af3f5a7d1
+	   |-- fabric-keybindings-v0 0.2.45+df3654b3d1
+	   |-- fabric-lifecycle-events-v1 2.3.12+6c1df360d1
+	   |-- fabric-loot-api-v2 3.0.14+3f89f5a5d1
+	   |-- fabric-loot-api-v3 1.0.2+3f89f5a5d1
+	   |-- fabric-message-api-v1 6.0.13+6573ed8cd1
+	   |-- fabric-model-loading-api-v1 2.0.0+fe474d6bd1
+	   |-- fabric-networking-api-v1 4.2.2+60c3209bd1
+	   |-- fabric-object-builder-api-v1 15.2.0+a551f7a4d1
+	   |-- fabric-particles-v1 4.0.2+6573ed8cd1
+	   |-- fabric-recipe-api-v1 5.0.12+65089712d1
+	   |-- fabric-registry-sync-v0 5.1.2+60c3209bd1
+	   |-- fabric-renderer-api-v1 3.4.0+c705a49cd1
+	   |-- fabric-renderer-indigo 1.7.0+c705a49cd1
+	   |-- fabric-renderer-registries-v1 3.2.68+df3654b3d1
+	   |-- fabric-rendering-data-attachment-v1 0.3.48+73761d2ed1
+	   |-- fabric-rendering-fluids-v1 3.1.6+b5597344d1
+	   |-- fabric-rendering-v0 1.1.71+df3654b3d1
+	   |-- fabric-rendering-v1 5.0.5+df16efd0d1
+	   |-- fabric-resource-conditions-api-v1 4.3.0+8dc279b1d1
+	   |-- fabric-resource-loader-v0 1.3.0+56599129d1
+	   |-- fabric-screen-api-v1 2.0.24+b5597344d1
+	   |-- fabric-screen-handler-api-v1 1.3.86+b5597344d1
+	   |-- fabric-sound-api-v1 1.0.23+6573ed8cd1
+	   |-- fabric-transfer-api-v1 5.1.16+3dccd343d1
+	   \-- fabric-transitive-access-wideners-v1 6.1.0+176f9036d1
+	- fabricloader 0.16.3
+	   \-- mixinextras 0.4.1
+	- java 21
+	- lithium 0.13.1
+	- minecraft 1.21
+[20:10:16] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/fuzzy-meme/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[20:10:16] [main/INFO]: Compatibility level set to JAVA_17
+[20:10:16] [main/INFO]: Loaded configuration file for Lithium: 144 options available, 0 override(s) found
+[20:10:17] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[20:10:31] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:10:31] [main/WARN]: Pack file/amplified-nether-height.zip declared support for versions [16, 41] but declared main format is 15, defaulting to 15
+[20:10:31] [main/INFO]: Found new data pack fabric, loading it automatically
+[20:10:31] [main/INFO]: Found new data pack fabric-convention-tags-v2, loading it automatically
+[20:10:34] [main/INFO]: Loaded 1290 recipes
+[20:10:34] [main/INFO]: Loaded 1399 advancements
+[20:10:35] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 6.550 ms
+[20:10:35] [Server thread/INFO]: Starting minecraft server version 1.21
+[20:10:35] [Server thread/INFO]: Loading properties
+[20:10:35] [Server thread/INFO]: Default game type: SURVIVAL
+[20:10:35] [Server thread/INFO]: Generating keypair
+[20:10:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:10:35] [Server thread/INFO]: Using epoll channel type
+[20:10:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:10:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:10:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:10:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:10:35] [Server thread/INFO]: Preparing level "world"
+[20:10:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:10:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:10:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:10:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:10:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:10:46] [Server thread/INFO]: Time elapsed: 1772 ms
+[20:10:46] [Server thread/INFO]: Done (10.647s)! For help, type "help"
