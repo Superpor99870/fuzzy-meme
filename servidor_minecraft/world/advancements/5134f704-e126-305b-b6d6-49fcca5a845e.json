@@ -200,6 +200,7 @@
       "minecraft:blaze": "2025-01-02 22:37:53 +0000",
       "minecraft:skeleton": "2025-01-02 22:44:43 +0000",
       "minecraft:piglin": "2025-01-02 22:36:17 +0000",
+      "minecraft:zombified_piglin": "2025-01-09 03:22:37 +0000",
       "minecraft:magma_cube": "2025-01-05 22:00:02 +0000",
       "minecraft:piglin_brute": "2025-01-02 23:02:02 +0000",
       "minecraft:zombie": "2025-01-03 00:10:20 +0000",
@@ -229,6 +230,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-01-09 03:27:14 +0000",
       "golden_apple": "2025-01-02 22:37:31 +0000",
       "bread": "2025-01-05 21:52:26 +0000",
       "rotten_flesh": "2025-01-05 21:47:28 +0000"
