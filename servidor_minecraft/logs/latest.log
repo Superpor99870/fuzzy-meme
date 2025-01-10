@@ -112,3 +112,6 @@
 [02:55:34] [Server thread/INFO]: Akukis has reached the goal [Beaconator]
 [02:55:34] [Server thread/INFO]: Akukis has made the advancement [Bring Home the Beacon]
 [02:56:42] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[02:57:50] [Server thread/INFO]: Akukis lost connection: Disconnected
+[02:57:50] [Server thread/INFO]: Akukis left the game
+[02:57:50] [Server thread/WARN]: handleDisconnection() called twice
