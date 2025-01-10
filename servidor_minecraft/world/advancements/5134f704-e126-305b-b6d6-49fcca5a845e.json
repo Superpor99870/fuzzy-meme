@@ -201,6 +201,7 @@
       "minecraft:skeleton": "2025-01-02 22:44:43 +0000",
       "minecraft:piglin": "2025-01-02 22:36:17 +0000",
       "minecraft:zombified_piglin": "2025-01-09 03:22:37 +0000",
+      "minecraft:stray": "2025-01-10 18:52:21 +0000",
       "minecraft:magma_cube": "2025-01-05 22:00:02 +0000",
       "minecraft:piglin_brute": "2025-01-02 23:02:02 +0000",
       "minecraft:zombie": "2025-01-03 00:10:20 +0000",
@@ -1401,27 +1402,9 @@
     },
     "done": true
   },
-  "minecraft:nether/create_beacon": {
-    "criteria": {
-      "beacon": "2025-01-10 02:55:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-01-10 02:29:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2025-01-10 02:55:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/cure_zombie_villager": {
-    "criteria": {
-      "cured_zombie": "2025-01-10 02:35:48 +0000"
     },
     "done": true
   },
@@ -1449,21 +1432,9 @@
     },
     "done": true
   },
-  "minecraft:nether/create_full_beacon": {
-    "criteria": {
-      "beacon": "2025-01-10 02:55:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-10 02:29:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/beacon": {
-    "criteria": {
-      "has_nether_star": "2025-01-10 02:55:27 +0000"
     },
     "done": true
   },
@@ -1479,9 +1450,51 @@
     },
     "done": true
   },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2025-01-10 02:35:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-01-10 02:55:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-01-10 02:55:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-01-10 02:55:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-01-10 02:55:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2025-01-10 02:55:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-01-10 18:48:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-01-10 18:48:31 +0000"
     },
     "done": true
   },
