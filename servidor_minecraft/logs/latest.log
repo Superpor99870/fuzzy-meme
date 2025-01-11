@@ -156,3 +156,26 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [01:55:02] [Server thread/WARN]: Spruce Boat (vehicle of cuycito) moved wrongly! 0.7105110737943505
 [01:56:44] [Server thread/INFO]: [Akukis: Teleported cuycito to Akukis]
 [01:57:37] [Server thread/INFO]: [Akukis: Teleported cuycito to Akukis]
+[02:02:13] [Server thread/INFO]: Locating element minecraft:stronghold took 8 ms
+[02:03:51] [Server thread/INFO]: [Not Secure] <Akukis> -848 ~ 1216
+[02:04:17] [Server thread/INFO]: [Akukis: Teleported Akukis to -847.500000, 62.110764, 1216.500000]
+[02:04:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15854ms or 317 ticks behind
+[02:04:44] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[02:04:52] [Server thread/INFO]: Akukis lost connection: Disconnected
+[02:04:52] [Server thread/INFO]: Akukis left the game
+[02:05:05] [Server thread/INFO]: Akukis[/172.30.204.192:50825] logged in with entity id 9701 at (-846.5197439523281, 63.49506601944698, 1215.625934306664)
+[02:05:05] [Server thread/INFO]: Akukis joined the game
+[02:05:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2094ms or 41 ticks behind
+[02:05:51] [Server thread/INFO]: Akukis has made the advancement [Eye Spy]
+[02:05:58] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[02:06:02] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[02:06:20] [Server thread/INFO]: [Akukis: Teleported cuycito to Akukis]
+[02:06:21] [Server thread/INFO]: cuycito has made the advancement [Eye Spy]
+[02:07:33] [Server thread/INFO]: cuycito tried to swim in lava
+[02:07:54] [Server thread/INFO]: [Akukis: Teleported cuycito to Akukis]
+[02:08:20] [Server thread/INFO]: Villager class_1646['Villager'/10300, l='ServerLevel[world]', x=-1016.63, y=249.56, z=1100.72] died, message: 'Villager suffocated in a wall'
+[02:08:48] [Server thread/INFO]: Akukis was killed
+[02:08:48] [Server thread/INFO]: [Akukis: Killed Akukis]
+[02:08:59] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[02:09:19] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[02:09:31] [Server thread/INFO]: [Akukis: Teleported Akukis to cuycito]
