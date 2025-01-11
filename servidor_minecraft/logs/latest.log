@@ -1,5 +1,5 @@
-[01:18:42] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.3
-[01:18:42] [main/INFO]: Loading 45 mods:
+[19:55:32] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.3
+[19:55:33] [main/INFO]: Loading 45 mods:
 	- chunky 1.4.16
 	- cloth-config 15.0.140
 	   \-- cloth-basic-math 0.6.1
@@ -57,34 +57,38 @@
 	- java 21
 	- lithium 0.13.1
 	- minecraft 1.21
-[01:18:42] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/fuzzy-meme/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[01:18:42] [main/INFO]: Compatibility level set to JAVA_17
-[01:18:43] [main/INFO]: Loaded configuration file for Lithium: 144 options available, 0 override(s) found
-[01:18:44] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[01:18:56] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:18:56] [main/WARN]: Pack file/amplified-nether-height.zip declared support for versions [16, 41] but declared main format is 15, defaulting to 15
-[01:18:59] [main/INFO]: Loaded 1290 recipes
-[01:18:59] [main/INFO]: Loaded 1399 advancements
-[01:19:00] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.503 ms
-[01:19:00] [Server thread/INFO]: Starting minecraft server version 1.21
-[01:19:00] [Server thread/INFO]: Loading properties
-[01:19:00] [Server thread/INFO]: Default game type: SURVIVAL
-[01:19:00] [Server thread/INFO]: Generating keypair
-[01:19:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:19:00] [Server thread/INFO]: Using epoll channel type
-[01:19:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:19:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:19:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:19:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:19:00] [Server thread/INFO]: Preparing level "world"
-[01:19:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:19:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:19:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:19:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:19:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:19:11] [Server thread/INFO]: Time elapsed: 1812 ms
-[01:19:11] [Server thread/INFO]: Done (10.474s)! For help, type "help"
-[01:19:11] [Server thread/ERROR]: Couldn't load server icon
+[19:55:34] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/fuzzy-meme/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[19:55:35] [main/INFO]: Compatibility level set to JAVA_17
+[19:55:35] [main/INFO]: Loaded configuration file for Lithium: 144 options available, 0 override(s) found
+[19:55:38] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[19:55:58] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:56:00] [main/WARN]: Pack file/amplified-nether-height.zip declared support for versions [16, 41] but declared main format is 15, defaulting to 15
+[19:56:06] [main/INFO]: Loaded 1290 recipes
+[19:56:06] [main/INFO]: Loaded 1399 advancements
+[19:56:08] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 10.97 ms
+[19:56:08] [Server thread/INFO]: Starting minecraft server version 1.21
+[19:56:08] [Server thread/INFO]: Loading properties
+[19:56:08] [Server thread/INFO]: Default game type: SURVIVAL
+[19:56:08] [Server thread/INFO]: Generating keypair
+[19:56:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:56:09] [Server thread/INFO]: Using epoll channel type
+[19:56:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:56:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:56:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:56:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:56:09] [Server thread/INFO]: Preparing level "world"
+[19:56:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:56:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:56:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:56:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:56:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:56:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:56:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:56:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:56:27] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:56:28] [Server thread/INFO]: Time elapsed: 4489 ms
+[19:56:28] [Server thread/INFO]: Done (18.176s)! For help, type "help"
+[19:56:28] [Server thread/ERROR]: Couldn't load server icon
 java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getWidth()" because "$$1" is null
 	at net.minecraft.server.MinecraftServer.method_49387(MinecraftServer.java:874) ~[server-intermediary.jar:?]
 	at java.base/java.util.Optional.flatMap(Optional.java:289) ~[?:?]
@@ -92,129 +96,11 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:667) ~[server-intermediary.jar:?]
 	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[01:21:47] [Server thread/INFO]: Akukis[/172.30.204.192:64801] logged in with entity id 58 at (43.74351711010758, 762.0625, 25.004712162406594)
-[01:21:47] [Server thread/INFO]: Akukis joined the game
-[01:22:55] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[01:23:06] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[01:24:00] [Server thread/INFO]: cuycito[/172.30.54.93:57052] logged in with entity id 386 at (-9.5, 764.0, -2.5)
-[01:24:00] [Server thread/INFO]: cuycito joined the game
-[01:24:11] [Server thread/INFO]: [Akukis: Teleported Akukis to cuycito]
-[01:24:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=8, y=765, z=3}
-[01:24:23] [Server thread/INFO]: cuycito was slain by Akukis using [Mañoso]
-[01:25:21] [Server thread/INFO]: [Akukis: Teleported Akukis to cuycito]
-[01:25:51] [Server thread/INFO]: cuycito has made the advancement [Suit Up]
-[01:25:55] [Server thread/INFO]: cuycito has made the advancement [Isn't It Iron Pick]
-[01:26:08] [Server thread/INFO]: cuycito has made the advancement [Stone Age]
-[01:26:49] [Server thread/INFO]: cuycito has made the advancement [A Seedy Place]
-[01:27:50] [Server thread/INFO]: cuycito was slain by Akukis using [Mañoso]
-[01:28:33] [Server thread/INFO]: cuycito has made the advancement [Acquire Hardware]
-[01:29:43] [Server thread/INFO]: cuycito was doomed to fall by Akukis
-[01:29:48] [Server thread/INFO]: [Akukis: Teleported Akukis to cuycito]
-[01:30:01] [Server thread/INFO]: cuycito has made the advancement [Sweet Dreams]
-[01:30:08] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[01:30:12] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[01:30:17] [Server thread/INFO]: [Akukis: Teleported Akukis to cuycito]
-[01:30:44] [Server thread/INFO]: cuycito has made the advancement [Cover Me with Diamonds]
-[01:31:08] [Server thread/INFO]: cuycito was burned to a crisp while fighting Akukis
-[01:31:37] [Server thread/INFO]: cuycito has made the advancement [Into Fire]
-[01:33:22] [Server thread/INFO]: cuycito was slain by Akukis using [Mañoso]
-[01:33:57] [Server thread/INFO]: cuycito has made the advancement [Diamonds!]
-[01:34:08] [Server thread/INFO]: Akukis has made the advancement [Suit Up]
-[01:36:00] [Server thread/INFO]: cuycito lost connection: Timed out
-[01:36:00] [Server thread/INFO]: cuycito left the game
-[01:36:00] [Server thread/WARN]: handleDisconnection() called twice
-[01:36:15] [Server thread/INFO]: cuycito[/172.30.54.93:57722] logged in with entity id 2375 at (61.53766056888265, 767.0, 31.22872438209656)
-[01:36:15] [Server thread/INFO]: cuycito joined the game
-[01:36:26] [Server thread/INFO]: [Akukis: Teleported Akukis to cuycito]
-[01:38:23] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[01:38:26] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[01:39:00] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[01:39:04] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[01:39:38] [Server thread/INFO]: cuycito was doomed to fall by Akukis
-[01:40:32] [Server thread/INFO]: cuycito has made the advancement [Monster Hunter]
-[01:40:49] [Server thread/INFO]: cuycito was doomed to fall by Akukis using [Mañoso]
-[01:44:32] [Server thread/INFO]: Akukis fell from a high place
-[01:47:10] [Server thread/INFO]: [Akukis: Teleported Akukis to cuycito]
-[01:47:19] [Server thread/INFO]: cuycito was slain by Akukis using [Mañoso]
-[01:47:44] [Server thread/INFO]: [Akukis: Teleported Akukis to cuycito]
-[01:48:22] [Server thread/INFO]: [Akukis: Teleported Akukis to cuycito]
-[01:49:14] [Server thread/INFO]: cuycito has made the advancement [Star Trader]
-[01:49:14] [Server thread/INFO]: cuycito has made the advancement [What a Deal!]
-[01:49:25] [Server thread/INFO]: [Akukis: Teleported Akukis to cuycito]
-[01:50:11] [Server thread/INFO]: [Akukis: Teleported cuycito to Akukis]
-[01:51:19] [Server thread/INFO]: [Akukis: Teleported cuycito to Akukis]
-[01:53:50] [Server thread/INFO]: cuycito was slain by Akukis using [Mañoso]
-[01:53:56] [Server thread/INFO]: [Akukis: Teleported cuycito to Akukis]
-[01:54:47] [Server thread/WARN]: Spruce Boat (vehicle of cuycito) moved wrongly! 0.4037916484531223
-[01:54:47] [Server thread/WARN]: Spruce Boat (vehicle of cuycito) moved wrongly! 1.2723797756614204
-[01:54:47] [Server thread/WARN]: Spruce Boat (vehicle of cuycito) moved wrongly! 0.7542729595392643
-[01:54:47] [Server thread/WARN]: Spruce Boat (vehicle of cuycito) moved wrongly! 1.2723797756614204
-[01:54:47] [Server thread/WARN]: Spruce Boat (vehicle of cuycito) moved wrongly! 0.7286461899736878
-[01:55:02] [Server thread/WARN]: Spruce Boat (vehicle of cuycito) moved wrongly! 0.3787538776166457
-[01:55:02] [Server thread/WARN]: Spruce Boat (vehicle of cuycito) moved wrongly! 0.5166977003178772
-[01:55:02] [Server thread/WARN]: Spruce Boat (vehicle of cuycito) moved wrongly! 0.5946793054066575
-[01:55:02] [Server thread/WARN]: Spruce Boat (vehicle of cuycito) moved wrongly! 0.7105110737943505
-[01:56:44] [Server thread/INFO]: [Akukis: Teleported cuycito to Akukis]
-[01:57:37] [Server thread/INFO]: [Akukis: Teleported cuycito to Akukis]
-[02:02:13] [Server thread/INFO]: Locating element minecraft:stronghold took 8 ms
-[02:03:51] [Server thread/INFO]: [Not Secure] <Akukis> -848 ~ 1216
-[02:04:17] [Server thread/INFO]: [Akukis: Teleported Akukis to -847.500000, 62.110764, 1216.500000]
-[02:04:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15854ms or 317 ticks behind
-[02:04:44] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[02:04:52] [Server thread/INFO]: Akukis lost connection: Disconnected
-[02:04:52] [Server thread/INFO]: Akukis left the game
-[02:05:05] [Server thread/INFO]: Akukis[/172.30.204.192:50825] logged in with entity id 9701 at (-846.5197439523281, 63.49506601944698, 1215.625934306664)
-[02:05:05] [Server thread/INFO]: Akukis joined the game
-[02:05:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2094ms or 41 ticks behind
-[02:05:51] [Server thread/INFO]: Akukis has made the advancement [Eye Spy]
-[02:05:58] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[02:06:02] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[02:06:20] [Server thread/INFO]: [Akukis: Teleported cuycito to Akukis]
-[02:06:21] [Server thread/INFO]: cuycito has made the advancement [Eye Spy]
-[02:07:33] [Server thread/INFO]: cuycito tried to swim in lava
-[02:07:54] [Server thread/INFO]: [Akukis: Teleported cuycito to Akukis]
-[02:08:20] [Server thread/INFO]: Villager class_1646['Villager'/10300, l='ServerLevel[world]', x=-1016.63, y=249.56, z=1100.72] died, message: 'Villager suffocated in a wall'
-[02:08:48] [Server thread/INFO]: Akukis was killed
-[02:08:48] [Server thread/INFO]: [Akukis: Killed Akukis]
-[02:08:59] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[02:09:19] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[02:09:31] [Server thread/INFO]: [Akukis: Teleported Akukis to cuycito]
-[02:09:48] [Server thread/INFO]: Akukis has made the advancement [The End?]
-[02:09:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3245ms or 64 ticks behind
-[02:09:48] [Server thread/INFO]: cuycito has made the advancement [The End?]
-[02:09:51] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[02:09:51] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
-[02:10:43] [Server thread/INFO]: cuycito was slain by Enderman
-[02:11:11] [Server thread/INFO]: cuycito was killed
-[02:11:11] [Server thread/INFO]: [Akukis: Killed cuycito]
-[02:11:32] [Server thread/INFO]: cuycito was killed
-[02:11:32] [Server thread/INFO]: [Akukis: Killed cuycito]
-[02:12:17] [Server thread/INFO]: cuycito was killed
-[02:12:17] [Server thread/INFO]: [Akukis: Killed cuycito]
-[02:12:30] [Server thread/INFO]: [Akukis: Teleported cuycito to Akukis]
-[02:12:34] [Server thread/INFO]: cuycito was doomed to fall by Akukis
-[02:12:40] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[02:12:49] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[02:13:01] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[02:13:39] [Server thread/INFO]: cuycito was killed
-[02:13:39] [Server thread/INFO]: [Akukis: Killed cuycito]
-[02:13:42] [Server thread/INFO]: [Akukis: Teleported cuycito to Akukis]
-[02:13:44] [Server thread/INFO]: cuycito fell from a high place
-[02:13:49] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[02:13:50] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[02:13:56] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[02:14:02] [Server thread/INFO]: [Akukis: Teleported cuycito to Akukis]
-[02:14:59] [Server thread/INFO]: cuycito has made the advancement [Take Aim]
-[02:16:39] [Server thread/INFO]: cuycito was doomed to fall by Ender Dragon
-[02:16:50] [Server thread/INFO]: [Akukis: Teleported cuycito to Akukis]
-[02:16:55] [Server thread/INFO]: Akukis has made the advancement [Free the End]
-[02:16:59] [Server thread/INFO]: [Akukis: Teleported cuycito to Akukis]
-[02:17:34] [Server thread/INFO]: cuycito has reached the goal [The Next Generation]
-[02:18:06] [Server thread/INFO]: [Akukis: Teleported cuycito to Akukis]
-[02:18:34] [Server thread/INFO]: cuycito was slain by Akukis using [Mañoso]
-[02:18:47] [Server thread/INFO]: [Akukis: Teleported cuycito to Akukis]
-[02:19:01] [Server thread/INFO]: cuycito was slain by Akukis using [Mañoso]
-[02:19:11] [Server thread/INFO]: [Akukis: Teleported cuycito to Akukis]
-[02:19:25] [Server thread/INFO]: cuycito was slain by Akukis using [Mañoso]
-[02:19:34] [Server thread/INFO]: cuycito has made the advancement [We Need to Go Deeper]
-[02:19:34] [Server thread/INFO]: [Akukis: Teleported cuycito to Akukis]
+[19:56:58] [Server thread/INFO]: Akukis[/172.30.204.192:63691] logged in with entity id 35 at (93.7329893231935, 777.0, -3.602546788460535)
+[19:56:59] [Server thread/INFO]: Akukis joined the game
+[19:57:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2506ms or 50 ticks behind
+[20:04:43] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[20:09:35] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[20:11:12] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[20:16:27] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[20:31:37] [Server thread/INFO]: Akukis fell from a high place
