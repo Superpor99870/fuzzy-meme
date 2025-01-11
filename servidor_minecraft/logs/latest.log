@@ -179,3 +179,42 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [02:08:59] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
 [02:09:19] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
 [02:09:31] [Server thread/INFO]: [Akukis: Teleported Akukis to cuycito]
+[02:09:48] [Server thread/INFO]: Akukis has made the advancement [The End?]
+[02:09:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3245ms or 64 ticks behind
+[02:09:48] [Server thread/INFO]: cuycito has made the advancement [The End?]
+[02:09:51] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[02:09:51] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[02:10:43] [Server thread/INFO]: cuycito was slain by Enderman
+[02:11:11] [Server thread/INFO]: cuycito was killed
+[02:11:11] [Server thread/INFO]: [Akukis: Killed cuycito]
+[02:11:32] [Server thread/INFO]: cuycito was killed
+[02:11:32] [Server thread/INFO]: [Akukis: Killed cuycito]
+[02:12:17] [Server thread/INFO]: cuycito was killed
+[02:12:17] [Server thread/INFO]: [Akukis: Killed cuycito]
+[02:12:30] [Server thread/INFO]: [Akukis: Teleported cuycito to Akukis]
+[02:12:34] [Server thread/INFO]: cuycito was doomed to fall by Akukis
+[02:12:40] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[02:12:49] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[02:13:01] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[02:13:39] [Server thread/INFO]: cuycito was killed
+[02:13:39] [Server thread/INFO]: [Akukis: Killed cuycito]
+[02:13:42] [Server thread/INFO]: [Akukis: Teleported cuycito to Akukis]
+[02:13:44] [Server thread/INFO]: cuycito fell from a high place
+[02:13:49] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[02:13:50] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[02:13:56] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[02:14:02] [Server thread/INFO]: [Akukis: Teleported cuycito to Akukis]
+[02:14:59] [Server thread/INFO]: cuycito has made the advancement [Take Aim]
+[02:16:39] [Server thread/INFO]: cuycito was doomed to fall by Ender Dragon
+[02:16:50] [Server thread/INFO]: [Akukis: Teleported cuycito to Akukis]
+[02:16:55] [Server thread/INFO]: Akukis has made the advancement [Free the End]
+[02:16:59] [Server thread/INFO]: [Akukis: Teleported cuycito to Akukis]
+[02:17:34] [Server thread/INFO]: cuycito has reached the goal [The Next Generation]
+[02:18:06] [Server thread/INFO]: [Akukis: Teleported cuycito to Akukis]
+[02:18:34] [Server thread/INFO]: cuycito was slain by Akukis using [Mañoso]
+[02:18:47] [Server thread/INFO]: [Akukis: Teleported cuycito to Akukis]
+[02:19:01] [Server thread/INFO]: cuycito was slain by Akukis using [Mañoso]
+[02:19:11] [Server thread/INFO]: [Akukis: Teleported cuycito to Akukis]
+[02:19:25] [Server thread/INFO]: cuycito was slain by Akukis using [Mañoso]
+[02:19:34] [Server thread/INFO]: cuycito has made the advancement [We Need to Go Deeper]
+[02:19:34] [Server thread/INFO]: [Akukis: Teleported cuycito to Akukis]
