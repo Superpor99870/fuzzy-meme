@@ -113,3 +113,7 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [16:38:27] [Server thread/INFO]: Akukis left the game
 [16:38:36] [Server thread/INFO]: Akukis[/172.30.127.230:63812] logged in with entity id 1106 at (55.560574287302764, 767.1212968405392, 23.60734962102486)
 [16:38:36] [Server thread/INFO]: Akukis joined the game
+[16:41:30] [Server thread/INFO]: Akukis lost connection: Disconnected
+[16:41:30] [Server thread/INFO]: Akukis left the game
+[16:41:39] [Server thread/INFO]: Akukis[/172.30.127.230:63818] logged in with entity id 1551 at (19.83775132119343, 765.0, 64.37711198085782)
+[16:41:39] [Server thread/INFO]: Akukis joined the game
