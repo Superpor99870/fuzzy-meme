@@ -126,3 +126,248 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [17:07:07] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
 [17:07:18] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
 [17:07:20] [Server thread/INFO]: Akukis fell from a high place
+[17:17:39] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[17:17:45] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[17:18:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=54, y=763, z=58} class_2338{x=65, y=764, z=54}
+[17:18:58] [Server thread/WARN]: Akukis moved too quickly! -8.83584252617571,1.1278902382055094,-5.038571044446186
+[17:19:53] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4057 chunks (0.06%), ETA: 778:45:48, Rate: 2.2 cps, Current: 29, -31
+[17:19:55] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4067 chunks (0.07%), ETA: 382:00:05, Rate: 4.5 cps, Current: 31, -31
+[17:19:55] [Server thread/WARN]: Akukis moved too quickly! -0.8060966144278368,-0.11996086142710283,-10.114990908499436
+[17:19:56] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4072 chunks (0.07%), ETA: 372:57:13, Rate: 4.7 cps, Current: 30, -29
+[17:19:57] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4073 chunks (0.07%), ETA: 484:11:11, Rate: 3.6 cps, Current: 31, -28
+[17:20:01] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4076 chunks (0.07%), ETA: 737:52:51, Rate: 2.4 cps, Current: 30, -27
+[17:20:04] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4077 chunks (0.07%), ETA: 913:37:07, Rate: 1.9 cps, Current: 31, -25
+[17:20:05] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4080 chunks (0.07%), ETA: 877:42:04, Rate: 2.0 cps, Current: 30, -26
+[17:20:07] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4083 chunks (0.07%), ETA: 888:43:48, Rate: 2.0 cps, Current: 27, -26
+[17:20:09] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4089 chunks (0.07%), ETA: 829:56:02, Rate: 2.1 cps, Current: 26, -25
+[17:20:10] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4098 chunks (0.07%), ETA: 714:38:52, Rate: 2.4 cps, Current: 29, -32
+[17:20:13] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4101 chunks (0.07%), ETA: 775:06:15, Rate: 2.2 cps, Current: -31, -31
+[17:20:14] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4104 chunks (0.07%), ETA: 771:10:56, Rate: 2.3 cps, Current: -30, -31
+[17:20:17] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4105 chunks (0.07%), ETA: 863:34:19, Rate: 2.0 cps, Current: -29, -30
+[17:20:19] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4107 chunks (0.07%), ETA: 870:33:33, Rate: 2.0 cps, Current: -31, -30
+[17:20:21] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4112 chunks (0.07%), ETA: 863:52:56, Rate: 2.0 cps, Current: -30, -28
+[17:20:24] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4124 chunks (0.07%), ETA: 888:26:41, Rate: 2.0 cps, Current: -29, -26
+[17:20:26] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4129 chunks (0.07%), ETA: 882:29:38, Rate: 2.0 cps, Current: -28, -28
+[17:20:29] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4131 chunks (0.07%), ETA: 858:32:00, Rate: 2.0 cps, Current: -28, -26
+[17:20:30] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4134 chunks (0.07%), ETA: 849:48:42, Rate: 2.0 cps, Current: -26, -29
+[17:20:32] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4141 chunks (0.07%), ETA: 740:58:02, Rate: 2.3 cps, Current: -28, -25
+[17:20:33] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4143 chunks (0.07%), ETA: 749:19:31, Rate: 2.3 cps, Current: -26, -25
+[17:20:34] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4144 chunks (0.07%), ETA: 776:56:58, Rate: 2.2 cps, Current: -25, -27
+[17:20:42] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4146 chunks (0.07%), ETA: 1083:08:30, Rate: 1.6 cps, Current: -25, -25
+[17:20:43] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4161 chunks (0.07%), ETA: 845:25:44, Rate: 2.1 cps, Current: -24, -32
+[17:20:45] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4199 chunks (0.07%), ETA: 506:13:24, Rate: 3.4 cps, Current: -19, -28
+[17:20:46] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4246 chunks (0.07%), ETA: 355:20:03, Rate: 4.9 cps, Current: -22, -28
+[17:20:48] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4247 chunks (0.07%), ETA: 363:34:05, Rate: 4.8 cps, Current: -21, -28
+[17:20:50] [Server thread/INFO]: [Akukis: Summoned new Thrown Ender Pearl]
+[17:20:52] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4249 chunks (0.07%), ETA: 382:04:23, Rate: 4.5 cps, Current: -21, -25
+[17:20:59] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4251 chunks (0.07%), ETA: 428:45:21, Rate: 4.0 cps, Current: -19, -25
+[17:21:03] [Server thread/INFO]: [Akukis: Summoned new Enderman]
+[17:21:10] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4252 chunks (0.07%), ETA: 464:33:16, Rate: 3.7 cps, Current: -18, -25
+[17:21:11] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4284 chunks (0.07%), ETA: 370:33:30, Rate: 4.7 cps, Current: -24, -21
+[17:21:13] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4289 chunks (0.07%), ETA: 528:22:19, Rate: 3.3 cps, Current: -25, -18
+[17:21:15] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4293 chunks (0.07%), ETA: 542:28:38, Rate: 3.2 cps, Current: -28, -19
+[17:21:16] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4308 chunks (0.07%), ETA: 813:10:07, Rate: 2.1 cps, Current: -26, -22
+[17:21:16] [Server thread/INFO]: [Akukis: Summoned new Enderman]
+[17:21:21] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4314 chunks (0.07%), ETA: 769:59:50, Rate: 2.3 cps, Current: -31, -24
+[17:21:23] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4315 chunks (0.07%), ETA: 645:41:25, Rate: 2.7 cps, Current: -31, -23
+[17:21:27] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4318 chunks (0.07%), ETA: 714:03:13, Rate: 2.4 cps, Current: -29, -24
+[17:21:35] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4321 chunks (0.07%), ETA: 615:34:04, Rate: 2.8 cps, Current: -30, -23
+[17:21:37] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4324 chunks (0.07%), ETA: 645:54:11, Rate: 2.7 cps, Current: -28, -22
+[17:21:39] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4326 chunks (0.07%), ETA: 668:20:09, Rate: 2.6 cps, Current: -27, -21
+[17:21:43] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4336 chunks (0.07%), ETA: 1079:36:51, Rate: 1.6 cps, Current: -31, -20
+[17:21:43] [Server thread/INFO]: [Akukis: Gave 16 [Ender Pearl] to Akukis]
+[17:21:44] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4355 chunks (0.07%), ETA: 802:48:00, Rate: 2.2 cps, Current: -31, -15
+[17:21:45] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4372 chunks (0.07%), ETA: 774:34:13, Rate: 2.2 cps, Current: -27, -15
+[17:21:54] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4386 chunks (0.07%), ETA: 680:56:58, Rate: 2.5 cps, Current: -27, -12
+[17:21:55] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4388 chunks (0.07%), ETA: 687:26:42, Rate: 2.5 cps, Current: -28, -11
+[17:22:09] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4392 chunks (0.07%), ETA: 772:30:54, Rate: 2.2 cps, Current: -25, -11
+[17:22:17] [Server thread/INFO]: Akukis fell from a high place
+[17:22:32] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4397 chunks (0.07%), ETA: 6522:54:37, Rate: 0.3 cps, Current: -29, -12
+[17:22:35] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4409 chunks (0.07%), ETA: 2471:41:04, Rate: 0.7 cps, Current: -31, -9
+[17:22:36] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4411 chunks (0.07%), ETA: 2357:04:48, Rate: 0.7 cps, Current: -32, -9
+[17:22:37] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4412 chunks (0.07%), ETA: 2345:37:28, Rate: 0.7 cps, Current: -32, -8
+[17:22:38] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4432 chunks (0.07%), ETA: 1246:02:54, Rate: 1.4 cps, Current: -30, -3
+[17:22:40] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4922 chunks (0.08%), ETA: 26:23:54, Rate: 65.8 cps, Current: -26, -6
+[17:22:42] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4924 chunks (0.08%), ETA: 33:21:17, Rate: 52.1 cps, Current: -26, -5
+[17:22:49] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4925 chunks (0.08%), ETA: 58:50:40, Rate: 29.5 cps, Current: -25, -4
+[17:22:51] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4945 chunks (0.08%), ETA: 61:07:29, Rate: 28.4 cps, Current: -24, -7
+[17:22:52] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4954 chunks (0.08%), ETA: 64:48:43, Rate: 26.8 cps, Current: -24, -11
+[17:23:02] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4961 chunks (0.08%), ETA: 85:28:41, Rate: 20.3 cps, Current: -5, -24
+[17:23:03] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 4997 chunks (0.08%), ETA: 83:13:16, Rate: 20.9 cps, Current: -10, -26
+[17:23:05] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 5003 chunks (0.08%), ETA: 84:29:33, Rate: 20.5 cps, Current: -10, -27
+[17:23:06] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 5008 chunks (0.08%), ETA: 86:45:11, Rate: 20.0 cps, Current: -12, -28
+[17:23:07] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 5012 chunks (0.08%), ETA: 85:55:58, Rate: 20.2 cps, Current: -14, -25
+[17:23:19] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 5015 chunks (0.08%), ETA: 699:59:36, Rate: 2.5 cps, Current: -15, -26
+[17:23:21] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 5020 chunks (0.08%), ETA: 745:35:33, Rate: 2.3 cps, Current: -13, -27
+[17:23:22] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 5065 chunks (0.08%), ETA: 461:53:37, Rate: 3.8 cps, Current: -8, -30
+[17:23:23] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 5081 chunks (0.08%), ETA: 308:03:45, Rate: 5.6 cps, Current: -6, -28
+[17:23:24] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 5086 chunks (0.08%), ETA: 310:11:41, Rate: 5.6 cps, Current: -5, -26
+[17:23:26] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 5088 chunks (0.08%), ETA: 322:21:21, Rate: 5.4 cps, Current: -5, -28
+[17:23:28] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 5089 chunks (0.08%), ETA: 347:34:02, Rate: 5.0 cps, Current: -4, -28
+[17:23:29] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 5090 chunks (0.08%), ETA: 366:58:55, Rate: 4.7 cps, Current: -3, -26
+[17:23:31] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 5093 chunks (0.08%), ETA: 384:21:13, Rate: 4.5 cps, Current: -4, -27
+[17:23:35] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 5094 chunks (0.08%), ETA: 561:55:31, Rate: 3.1 cps, Current: -3, -28
+[17:23:36] [Chunky-minecraft:overworld Thread/INFO]: [Chunky] Task stopped for minecraft:overworld.
+[17:25:11] [Server thread/INFO]: [Akukis: The game is frozen]
+[17:25:16] [Server thread/INFO]: [Akukis: The game is running normally]
+[17:25:21] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[17:25:37] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[17:25:44] [Server thread/INFO]: [Akukis: Summoned new Allay]
+[17:25:54] [Server thread/INFO]: Akukis lost connection: Disconnected
+[17:25:54] [Server thread/INFO]: Akukis left the game
+[17:26:28] [Server thread/INFO]: Akukis[/172.30.127.230:55677] logged in with entity id 6191 at (56.57455693721125, 767.0, 7.775070517450837)
+[17:26:29] [Server thread/INFO]: Akukis joined the game
+[17:26:37] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[17:26:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[17:26:59] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[17:27:04] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:04] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:04] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:04] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:04] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:04] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:05] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:05] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:05] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:05] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:05] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:05] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:05] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:05] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:05] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:05] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:05] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:05] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:05] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:05] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:05] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:05] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:05] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:05] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:05] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:05] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:06] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:06] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:06] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:06] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:06] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:06] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:06] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:06] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:06] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:06] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:06] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:06] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:06] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:06] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:06] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:06] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:06] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:06] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:06] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:06] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:07] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:07] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:07] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:07] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:07] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:07] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:07] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:07] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:07] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:07] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:07] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:07] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:07] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:07] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:07] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:07] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:07] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:07] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:07] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:07] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:08] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:08] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:08] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:08] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:08] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:08] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:08] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:08] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:08] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:08] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:08] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:08] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:08] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:08] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:08] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:08] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:08] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:08] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:08] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:08] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:09] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:09] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:09] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:09] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:09] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:09] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:09] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:09] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:09] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:09] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:09] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:09] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:09] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:09] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:09] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:09] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:09] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:09] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:09] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:09] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:10] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:10] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:10] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:10] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:10] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:10] [Server thread/WARN]: Akukis was kicked for floating too long!
+[17:27:10] [Server thread/INFO]: Akukis lost connection: Disconnected
+[17:27:10] [Server thread/INFO]: Akukis left the game
+[17:27:18] [Server thread/INFO]: Akukis[/172.30.127.230:55689] logged in with entity id 6466 at (92.9720590269494, 777.5561180086046, 3.7143393705237817)
+[17:27:18] [Server thread/INFO]: Akukis joined the game
+[17:31:29] [Server thread/INFO]: Akukis fell from a high place
+[17:33:04] [Server thread/INFO]: Akukis lost connection: Timed out
+[17:33:04] [Server thread/INFO]: Akukis left the game
+[17:33:13] [Server thread/INFO]: Akukis[/172.30.127.230:55697] logged in with entity id 8058 at (49.0137463108381, 765.0, 56.32310243342886)
+[17:33:13] [Server thread/INFO]: Akukis joined the game
+[17:33:58] [Server thread/INFO]: Akukis lost connection: Timed out
+[17:33:58] [Server thread/INFO]: Akukis left the game
+[17:34:08] [Server thread/INFO]: Akukis[/172.30.127.230:55699] logged in with entity id 8249 at (67.41925553841016, 765.0, 55.141143528227985)
+[17:34:08] [Server thread/INFO]: Akukis joined the game
+[17:37:41] [Server thread/INFO]: Akukis fell from a high place
+[17:38:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=59, y=792, z=-143}
+[17:38:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=60, y=792, z=-141}
+[17:38:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=61, y=793, z=-146}
+[17:38:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=61, y=793, z=-147}
+[17:38:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=61, y=793, z=-146} class_2338{x=61, y=792, z=-147}
+[17:38:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=61, y=792, z=-147} class_2338{x=59, y=793, z=-148}
+[17:38:53] [Server thread/INFO]: Akukis lost connection: Timed out
+[17:38:53] [Server thread/INFO]: Akukis left the game
+[17:39:03] [Server thread/INFO]: Akukis[/172.30.127.230:55702] logged in with entity id 9396 at (64.44937085478213, 792.0, -144.4822216118157)
+[17:39:03] [Server thread/INFO]: Akukis joined the game
+[17:54:41] [Server thread/INFO]: Akukis fell from a high place
+[17:57:49] [Server thread/INFO]: Akukis lost connection: Timed out
+[17:57:49] [Server thread/INFO]: Akukis left the game
+[17:57:59] [Server thread/INFO]: Akukis[/172.30.127.230:55766] logged in with entity id 12051 at (10.623061730364565, 767.0, 63.97589822759988)
+[17:57:59] [Server thread/INFO]: Akukis joined the game
+[18:03:01] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[18:03:09] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[18:05:20] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[18:05:25] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[18:10:29] [Server thread/WARN]: Akukis moved too quickly! 0.9028392338574989,-9.550801356073464,4.316370978110768
+[18:10:34] [Server thread/INFO]: Akukis fell from a high place
+[18:11:25] [Server thread/INFO]: Akukis lost connection: Disconnected
+[18:11:25] [Server thread/INFO]: Akukis left the game
+[18:11:33] [Server thread/INFO]: Akukis[/172.30.127.230:55776] logged in with entity id 14709 at (43.76249998807907, 763.0, 27.76249998807907)
+[18:11:33] [Server thread/INFO]: Akukis joined the game
