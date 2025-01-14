@@ -98,3 +98,11 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [21:07:48] [Server thread/INFO]: Akukis[/172.30.204.192:54678] logged in with entity id 43 at (93.18575404011467, 778.0, -9.380438219764521)
 [21:07:48] [Server thread/INFO]: Akukis joined the game
 [21:07:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[21:16:56] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[21:19:47] [Server thread/WARN]: Player Akukis just tried to change non-editable sign
+[21:22:09] [Server thread/WARN]: Player Akukis just tried to change non-editable sign
+[21:22:28] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[21:22:41] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[21:23:00] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[21:23:04] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[21:24:05] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]

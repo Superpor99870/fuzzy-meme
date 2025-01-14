@@ -241,10 +241,12 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-01-09 03:27:14 +0000",
+      "spider_eye": "2025-01-14 21:15:45 +0000",
       "golden_apple": "2025-01-02 22:37:31 +0000",
       "bread": "2025-01-05 21:52:26 +0000",
       "rotten_flesh": "2025-01-05 21:47:28 +0000",
       "enchanted_golden_apple": "2025-01-11 20:16:32 +0000",
+      "salmon": "2025-01-14 21:16:26 +0000",
       "golden_carrot": "2025-01-10 20:54:00 +0000"
     },
     "done": false
