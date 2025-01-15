@@ -19,3 +19,7 @@
 [01:52:53] [Server thread/INFO]: Akukis fell from a high place
 [01:52:56] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
 [01:53:03] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[02:05:32] [Server thread/INFO]: Akukis has made the advancement [Sneak 100]
+[02:06:48] [Server thread/INFO]: Akukis fell from a high place
+[02:07:44] [Server thread/INFO]: Akukis fell from a high place
+[02:09:42] [Server thread/WARN]: UUID of added entity already exists: class_1694['Minecart with Chest'/17977, l='ServerLevel[world]', x=525.50, y=-49.50, z=-15.50]
