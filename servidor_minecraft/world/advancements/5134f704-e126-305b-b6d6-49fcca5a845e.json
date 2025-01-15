@@ -10,9 +10,11 @@
       "minecraft:ice_spikes": "2025-01-11 01:55:49 +0000",
       "minecraft:frozen_river": "2025-01-11 01:50:51 +0000",
       "minecraft:forest": "2025-01-05 21:53:25 +0000",
+      "minecraft:river": "2025-01-15 01:08:17 +0000",
       "minecraft:snowy_plains": "2025-01-02 22:25:07 +0000",
       "minecraft:snowy_taiga": "2025-01-11 02:04:34 +0000",
-      "minecraft:dripstone_caves": "2025-01-11 02:05:41 +0000"
+      "minecraft:dripstone_caves": "2025-01-11 02:05:41 +0000",
+      "minecraft:plains": "2025-01-15 01:06:58 +0000"
     },
     "done": false
   },
@@ -2088,6 +2090,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-01-15 01:11:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-01-15 00:50:06 +0000"
@@ -2097,6 +2105,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-01-15 00:50:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2025-01-15 01:11:57 +0000"
     },
     "done": true
   },
@@ -2154,6 +2168,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-01-15 01:11:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-01-15 00:50:06 +0000"
@@ -2184,9 +2204,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-01-15 01:11:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-01-15 00:50:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-01-15 01:11:24 +0000"
     },
     "done": true
   },
@@ -2196,9 +2228,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2025-01-15 01:11:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-01-15 00:50:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2025-01-15 01:11:57 +0000"
     },
     "done": true
   },
