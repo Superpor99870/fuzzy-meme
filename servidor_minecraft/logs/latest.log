@@ -111,3 +111,12 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [02:11:07] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
 [02:12:41] [Server thread/INFO]: [@: Gave 5 [Emerald] to Akukis]
 [02:12:41] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, 48.500000]
+[02:53:44] [Server thread/INFO]: Akukis fell from a high place
+[02:56:12] [Server thread/INFO]: [@: Gave 5 [Diamond] to Akukis]
+[02:56:12] [Server thread/INFO]: [@: Teleported Akukis to 92.500000, 780.000000, -7.500000]
+[02:56:20] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[02:57:04] [Server thread/INFO]: [@: Gave 5 [Diamond] to Akukis]
+[02:57:04] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, -7.500000]
+[02:57:27] [Server thread/INFO]: [@: Gave 5 [Diamond] to Akukis]
+[02:57:27] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, 48.500000]
+[02:57:46] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
