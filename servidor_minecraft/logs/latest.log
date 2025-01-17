@@ -132,3 +132,27 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [21:28:44] [Server thread/INFO]: Akukis fell from a high place
 [21:29:36] [Server thread/INFO]: Akukis fell from a high place
 [21:30:02] [Server thread/INFO]: Akukis experienced kinetic energy
+[21:34:04] [Server thread/INFO]: Akukis fell from a high place
+[21:34:42] [Server thread/INFO]: [Akukis: Applied effect Haste to Akukis]
+[21:37:12] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[21:37:18] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[21:38:24] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[21:43:54] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[21:43:54] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[21:43:57] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[21:44:06] [Server thread/INFO]: Akukis fell from a high place
+[21:44:24] [Server thread/INFO]: [@: Gave 5 [Diamond] to Akukis]
+[21:44:24] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, 48.500000]
+[21:45:02] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[21:45:08] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[21:45:22] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[21:45:37] [Server thread/INFO]: [@: Applied effect Health Boost to 212 targets]
+[21:45:37] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, 48.500000]
+[21:45:59] [Server thread/INFO]: [@: Applied effect Health Boost to Akukis]
+[21:45:59] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, 48.500000]
+[21:46:13] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[21:47:27] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[21:47:54] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[21:47:58] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[21:49:02] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[21:50:14] [Server thread/INFO]: [Akukis: Gave 64 [Bottle o' Enchanting] to Akukis]
