@@ -208,3 +208,4 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [22:47:07] [Server thread/WARN]: handleDisconnection() called twice
 [22:48:19] [Server thread/INFO]: Akukis[/172.30.204.192:56247] logged in with entity id 21932 at (88.69275678814044, 767.0, 7.719720351676249)
 [22:48:19] [Server thread/INFO]: Akukis joined the game
+[23:28:02] [Server thread/INFO]: Akukis fell from a high place
