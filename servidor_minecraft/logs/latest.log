@@ -209,3 +209,11 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [22:48:19] [Server thread/INFO]: Akukis[/172.30.204.192:56247] logged in with entity id 21932 at (88.69275678814044, 767.0, 7.719720351676249)
 [22:48:19] [Server thread/INFO]: Akukis joined the game
 [23:28:02] [Server thread/INFO]: Akukis fell from a high place
+[23:44:35] [Server thread/INFO]: [@: Applied effect Speed to Akukis]
+[23:44:35] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, 48.500000]
+[23:45:16] [Server thread/INFO]: [@: Applied effect Health Boost to Akukis]
+[23:45:16] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, 48.500000]
+[23:46:30] [Server thread/INFO]: [@: Gave 5 [Diamond] to Akukis]
+[23:46:30] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, 48.500000]
+[23:46:38] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[23:46:43] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
