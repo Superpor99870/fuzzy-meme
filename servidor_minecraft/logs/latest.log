@@ -108,3 +108,6 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [02:09:48] [Server thread/INFO]: [@: Teleported Akukis to 92.500000, 780.000000, -7.500000]
 [02:10:24] [Server thread/INFO]: [@: Gave 5 [Emerald] to Akukis]
 [02:10:24] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, 48.500000]
+[02:11:07] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[02:12:41] [Server thread/INFO]: [@: Gave 5 [Emerald] to Akukis]
+[02:12:41] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, 48.500000]
