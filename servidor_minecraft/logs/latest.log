@@ -195,3 +195,16 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [22:31:46] [Server thread/INFO]: [Akukis: Gave 1 [Black Bed] to Akukis]
 [22:31:53] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
 [22:32:07] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[22:33:33] [Server thread/INFO]: [Akukis: Gave 128 [Flint] to Akukis]
+[22:34:21] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[22:34:32] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[22:36:00] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[22:36:36] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[22:37:56] [Server thread/INFO]: [Akukis: Gave 9999999 experience points to Akukis]
+[22:41:16] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[22:41:51] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[22:47:07] [Server thread/INFO]: Akukis lost connection: Timed out
+[22:47:07] [Server thread/INFO]: Akukis left the game
+[22:47:07] [Server thread/WARN]: handleDisconnection() called twice
+[22:48:19] [Server thread/INFO]: Akukis[/172.30.204.192:56247] logged in with entity id 21932 at (88.69275678814044, 767.0, 7.719720351676249)
+[22:48:19] [Server thread/INFO]: Akukis joined the game
