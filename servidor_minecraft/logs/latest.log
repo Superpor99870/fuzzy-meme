@@ -100,3 +100,4 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [18:37:04] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
 [18:39:31] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
 [18:40:50] [Server thread/INFO]: Villager class_1646['Weaponsmith'/171, l='ServerLevel[world]', x=98.30, y=767.00, z=0.70] died, message: 'Weaponsmith was slain by Zombie'
+[19:01:46] [Server thread/INFO]: Villager class_1646['Nitwit'/1221, l='ServerLevel[world]', x=96.53, y=767.56, z=-0.71] died, message: 'Nitwit was slain by Zombie'
