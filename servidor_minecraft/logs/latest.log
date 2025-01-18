@@ -101,3 +101,12 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [18:39:31] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
 [18:40:50] [Server thread/INFO]: Villager class_1646['Weaponsmith'/171, l='ServerLevel[world]', x=98.30, y=767.00, z=0.70] died, message: 'Weaponsmith was slain by Zombie'
 [19:01:46] [Server thread/INFO]: Villager class_1646['Nitwit'/1221, l='ServerLevel[world]', x=96.53, y=767.56, z=-0.71] died, message: 'Nitwit was slain by Zombie'
+[19:05:40] [Server thread/INFO]: [@: Applied effect Health Boost to Akukis]
+[19:05:40] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, 48.500000]
+[19:06:28] [Server thread/INFO]: [@: Applied effect Speed to Akukis]
+[19:06:28] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, 48.500000]
+[19:06:31] [Server thread/INFO]: [@: Gave 5 [Emerald] to Akukis]
+[19:06:31] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, 48.500000]
+[19:11:00] [Server thread/INFO]: Akukis lost connection: Timed out
+[19:11:00] [Server thread/INFO]: Akukis left the game
+[19:11:00] [Server thread/WARN]: handleDisconnection() called twice
