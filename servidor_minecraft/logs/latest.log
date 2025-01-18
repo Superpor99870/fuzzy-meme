@@ -110,3 +110,11 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [19:11:00] [Server thread/INFO]: Akukis lost connection: Timed out
 [19:11:00] [Server thread/INFO]: Akukis left the game
 [19:11:00] [Server thread/WARN]: handleDisconnection() called twice
+[19:46:58] [Server thread/INFO]: Akukis[/172.30.127.230:65126] logged in with entity id 2864 at (53.98404972865271, 767.0, 48.499162929144106)
+[19:46:58] [Server thread/INFO]: Akukis joined the game
+[19:47:19] [Server thread/INFO]: [@: Applied effect Speed to Akukis]
+[19:47:19] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, 48.500000]
+[19:47:20] [Server thread/INFO]: [@: Applied effect Health Boost to Akukis]
+[19:47:20] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, 48.500000]
+[19:47:35] [Server thread/INFO]: Akukis lost connection: Disconnected
+[19:47:35] [Server thread/INFO]: Akukis left the game
