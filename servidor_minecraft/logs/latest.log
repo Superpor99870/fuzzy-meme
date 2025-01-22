@@ -95,3 +95,33 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [18:35:45] [Server thread/INFO]: Akukis[/172.30.127.230:60590] logged in with entity id 135 at (54.5, 767.0, 48.5)
 [18:35:45] [Server thread/INFO]: Akukis joined the game
 [18:36:11] [Server thread/WARN]: Akukis moved too quickly! -1.140210218988713,0.0,-10.248763676795129
+[18:37:15] [Server thread/INFO]: Akukis lost connection: Timed out
+[18:37:15] [Server thread/INFO]: Akukis left the game
+[18:37:16] [Server thread/WARN]: handleDisconnection() called twice
+[18:37:18] [Server thread/INFO]: Akukis[/172.30.127.230:60677] logged in with entity id 552 at (92.3867799735105, 780.0, -6.934326737684217)
+[18:37:18] [Server thread/INFO]: Akukis joined the game
+[18:37:25] [Server thread/INFO]: [Akukis: Gave 64 [Arrow] to Akukis]
+[18:39:06] [Server thread/WARN]: Akukis moved too quickly! 10.07610472892732,0.37673561378176146,1.3181629656214966
+[18:41:11] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[18:41:26] [Server thread/WARN]: Akukis moved too quickly! -0.18188219971757746,-11.06576491203964,-0.14261686250826688
+[18:42:56] [Server thread/WARN]: Akukis moved too quickly! 0.07026624986652052,4.545475723346954,9.009481425701697
+[18:44:06] [Server thread/WARN]: Akukis moved too quickly! -9.732359139512056,0.0,3.3066443902277314
+[18:44:22] [Server thread/WARN]: Akukis moved too quickly! -9.62213184464278,0.0,3.5883356222063805
+[18:44:36] [Server thread/WARN]: Akukis moved too quickly! 5.38832788162523,-4.5420749688593105,7.335067148169635
+[18:45:19] [Server thread/INFO]: Akukis lost connection: Timed out
+[18:45:19] [Server thread/INFO]: Akukis left the game
+[18:45:30] [Server thread/INFO]: Akukis[/172.30.127.230:61080] logged in with entity id 1916 at (93.10747911759205, 769.0, 1.8220987161926367)
+[18:45:30] [Server thread/INFO]: Akukis joined the game
+[18:45:35] [Server thread/WARN]: Akukis moved too quickly! -8.400844744778553,-0.08609407931555779,5.815762027126609
+[18:46:43] [Server thread/WARN]: Akukis moved too quickly! 1.3517255343155767,-5.999559564332003,-8.014999965432756
+[18:47:02] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[18:47:14] [Server thread/WARN]: Akukis was kicked for floating too long!
+[18:47:14] [Server thread/INFO]: Akukis lost connection: Flying is not enabled on this server
+[18:47:14] [Server thread/INFO]: Akukis left the game
+[18:47:23] [Server thread/INFO]: Akukis[/172.30.127.230:61183] logged in with entity id 2416 at (90.408827266037, 798.3619510650515, -5.897565683107266)
+[18:47:23] [Server thread/INFO]: Akukis joined the game
+[18:51:08] [Server thread/INFO]: [Akukis: Gave 1 [Lava Bucket] to Akukis]
+[18:53:00] [Server thread/INFO]: [@: Applied effect Speed to Akukis]
+[18:53:00] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, 48.500000]
+[18:53:04] [Server thread/WARN]: Akukis moved too quickly! 3.1096354634025687,-0.12129684053923029,-9.642746469273213
+[18:53:20] [Server thread/WARN]: Akukis moved too quickly! -2.183314315447703,0.08000001311302185,10.001076552034775
