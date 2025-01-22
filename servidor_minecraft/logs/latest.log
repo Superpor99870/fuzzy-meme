@@ -125,3 +125,20 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [18:53:00] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, 48.500000]
 [18:53:04] [Server thread/WARN]: Akukis moved too quickly! 3.1096354634025687,-0.12129684053923029,-9.642746469273213
 [18:53:20] [Server thread/WARN]: Akukis moved too quickly! -2.183314315447703,0.08000001311302185,10.001076552034775
+[19:02:47] [Server thread/INFO]: [Not Secure] <Akukis> w
+[19:04:00] [Server thread/WARN]: Akukis moved too quickly! 0.0,-20.837766721545165,0.0
+[19:04:20] [Server thread/WARN]: Akukis moved too quickly! -0.9857806096025854,-10.170797282908438,-0.38547113624148466
+[19:04:24] [Server thread/WARN]: Akukis moved too quickly! 0.2273322058089775,-14.321690065263226,1.584622941094537
+[19:04:27] [Server thread/INFO]: Akukis fell from a high place
+[19:06:07] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[19:06:09] [Server thread/WARN]: Akukis moved too quickly! -4.352721482838675,6.249954172417233,-7.207652486459583
+[19:06:24] [Server thread/WARN]: Akukis moved too quickly! -8.20025167089699,4.873777352806201,-3.81482313770821
+[19:06:38] [Server thread/INFO]: [Akukis: Summoned new Villager]
+[19:06:56] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[19:07:00] [Server thread/INFO]: Villager class_1646['Villager'/5148, l='ServerLevel[world]', x=67.30, y=767.00, z=34.58] died, message: 'Villager hit the ground too hard'
+[19:07:10] [Server thread/INFO]: Akukis lost connection: Timed out
+[19:07:10] [Server thread/INFO]: Akukis left the game
+[19:07:18] [Server thread/INFO]: Akukis[/172.30.127.230:62247] logged in with entity id 5163 at (65.59215614994136, 793.0, 33.08423908807325)
+[19:07:18] [Server thread/INFO]: Akukis joined the game
+[19:07:33] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[19:07:35] [Server thread/INFO]: [Akukis: Summoned new Villager]
