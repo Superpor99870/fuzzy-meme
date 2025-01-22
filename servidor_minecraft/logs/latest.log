@@ -142,3 +142,21 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [19:07:18] [Server thread/INFO]: Akukis joined the game
 [19:07:33] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
 [19:07:35] [Server thread/INFO]: [Akukis: Summoned new Villager]
+[19:07:43] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[19:09:10] [Server thread/WARN]: Akukis moved too quickly! -1.0116845861761554,-10.806526110009258,-0.13068729880667718
+[19:09:18] [Server thread/WARN]: Akukis moved too quickly! 0.4206721837180858,-10.184074939147308,-0.8530296308911289
+[19:09:20] [Server thread/WARN]: Akukis moved too quickly! -0.8080343678789177,-12.262358999312141,-0.15588600572077382
+[19:09:22] [Server thread/WARN]: Akukis moved too quickly! 0.6626408546641933,-12.22272747027921,0.1531310566373918
+[19:09:38] [Server thread/INFO]: Akukis fell from a high place
+[19:10:23] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[19:10:29] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[19:11:18] [Server thread/INFO]: Akukis lost connection: Disconnected
+[19:11:18] [Server thread/INFO]: Akukis left the game
+[19:11:26] [Server thread/INFO]: Akukis[/172.30.127.230:62446] logged in with entity id 5992 at (61.90677678370777, 777.2491870787447, 48.16070959075232)
+[19:11:26] [Server thread/INFO]: Akukis joined the game
+[19:12:04] [Server thread/WARN]: Akukis moved too quickly! -6.173065509192362,-6.467067196892458,-5.047023481000323
+[19:12:36] [Server thread/INFO]: [@: Applied effect Speed to Akukis]
+[19:12:36] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, 48.500000]
+[19:13:45] [Server thread/INFO]: Akukis fell from a high place
+[19:17:09] [Server thread/INFO]: Akukis lost connection: Disconnected
+[19:17:09] [Server thread/INFO]: Akukis left the game
