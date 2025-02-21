@@ -104,3 +104,12 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [18:06:29] [Server thread/INFO]: Akukis was slain by Polar Bear
 [18:07:08] [Server thread/INFO]: [Akukis: Teleported Akukis to -190.500000, 1149.000000, -171.500000]
 [18:07:28] [Server thread/INFO]: Villager class_1646['Villager'/3370, l='ServerLevel[world]', x=-176.44, y=1151.61, z=-170.30] died, message: 'Villager was slain by Akukis using [Mañoso]'
+[18:11:53] [Server thread/INFO]: Akukis fell from a high place
+[18:14:28] [Server thread/INFO]: Akukis fell from a high place
+[18:16:10] [Server thread/INFO]: [@: Applied effect Speed to Akukis]
+[18:16:10] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, 48.500000]
+[18:18:07] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[18:18:11] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[18:24:29] [Server thread/INFO]: [Akukis: Gave 64 [Block of Coal] to Akukis]
+[18:27:13] [Server thread/INFO]: [@: Applied effect Speed to Akukis]
+[18:27:13] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, 48.500000]
