@@ -138,3 +138,5 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [18:56:44] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
 [18:56:58] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
 [19:02:49] [Server thread/INFO]: Akukis drowned
+[19:39:12] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[19:40:15] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
