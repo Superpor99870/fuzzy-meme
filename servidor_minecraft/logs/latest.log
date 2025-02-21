@@ -156,3 +156,5 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [20:23:46] [Server thread/INFO]: Akukis was blown up by Creeper
 [20:27:57] [Server thread/INFO]: Akukis lost connection: Disconnected
 [20:27:57] [Server thread/INFO]: Akukis left the game
+[20:31:29] [Server thread/INFO]: Akukis[/172.30.156.190:54192] logged in with entity id 21324 at (67.84034020816384, 767.0, 37.831196744363865)
+[20:31:29] [Server thread/INFO]: Akukis joined the game
