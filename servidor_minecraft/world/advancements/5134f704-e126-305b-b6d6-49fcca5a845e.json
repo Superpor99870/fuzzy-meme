@@ -258,6 +258,7 @@
       "enchanted_golden_apple": "2025-01-11 20:16:32 +0000",
       "cooked_cod": "2025-02-21 18:08:57 +0000",
       "salmon": "2025-01-14 21:16:26 +0000",
+      "baked_potato": "2025-02-21 18:35:39 +0000",
       "golden_carrot": "2025-01-10 20:54:00 +0000"
     },
     "done": false
@@ -2701,6 +2702,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-01-18 00:25:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2025-02-21 18:25:37 +0000"
     },
     "done": true
   },
