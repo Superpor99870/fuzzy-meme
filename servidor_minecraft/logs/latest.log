@@ -158,3 +158,26 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [20:27:57] [Server thread/INFO]: Akukis left the game
 [20:31:29] [Server thread/INFO]: Akukis[/172.30.156.190:54192] logged in with entity id 21324 at (67.84034020816384, 767.0, 37.831196744363865)
 [20:31:29] [Server thread/INFO]: Akukis joined the game
+[21:02:28] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Akukis) moved wrongly! 0.41520182635714775
+[21:02:28] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Akukis) moved wrongly! 1.9014170401049881
+[21:02:28] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Akukis) moved wrongly! 3.49352790195571
+[21:02:28] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Akukis) moved wrongly! 5.427838853821953
+[21:02:28] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Akukis) moved too quickly! -7.4900992588844275,0.0,-7.490099258884449
+[21:02:29] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Akukis) moved wrongly! 0.47423225395444035
+[21:02:29] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Akukis) moved wrongly! 0.2787313488254455
+[21:02:29] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Akukis) moved wrongly! 0.2787313488254455
+[21:02:29] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Akukis) moved wrongly! 0.2787313488254455
+[21:02:29] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Akukis) moved wrongly! 0.7341350408609344
+[21:02:29] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Akukis) moved wrongly! 0.7116717807183477
+[21:02:29] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Akukis) moved wrongly! 2.7523120729168715
+[21:02:29] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Akukis) moved wrongly! 2.4501034714574104
+[21:02:29] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Akukis) moved wrongly! 0.8158902258951812
+[21:02:30] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Akukis) moved wrongly! 3.5009962018687304
+[21:02:30] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Akukis) moved wrongly! 3.2030923359860495
+[21:02:30] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Akukis) moved wrongly! 1.8911811132239436
+[21:07:50] [Server thread/INFO]: [Akukis: Set the time to 1000]
+[21:08:31] [Server thread/INFO]: [@: Applied effect Speed to Akukis]
+[21:08:31] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, 48.500000]
+[21:09:55] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[21:11:42] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[21:12:03] [Server thread/INFO]: Akukis fell from a high place
