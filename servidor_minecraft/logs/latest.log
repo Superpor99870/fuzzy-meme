@@ -137,3 +137,4 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [18:50:40] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, 48.500000]
 [18:56:44] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
 [18:56:58] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[19:02:49] [Server thread/INFO]: Akukis drowned
