@@ -107,3 +107,8 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [13:51:02] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Akukis) moved wrongly! 2.5793169070041984
 [13:52:24] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
 [13:52:30] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[14:06:57] [Server thread/WARN]: Akukis moved too quickly! -11.65541779234124,-2.9906447232792743,-13.158411805483524
+[14:06:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14946ms or 298 ticks behind
+[14:07:00] [Server thread/WARN]: Akukis moved too quickly! -10.067734985930514,-9.07651985027502,-11.36350487313257
+[14:07:11] [Server thread/WARN]: Akukis moved too quickly! -5.17686893788138,-16.93455634491852,0.14197822033611374
+[14:23:12] [Server thread/INFO]: Akukis fell from a high place

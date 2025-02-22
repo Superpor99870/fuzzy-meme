@@ -226,6 +226,7 @@
       "minecraft:spider": "2025-01-11 01:24:27 +0000",
       "minecraft:zombie": "2025-01-03 00:10:20 +0000",
       "minecraft:creeper": "2025-01-03 00:10:04 +0000",
+      "minecraft:drowned": "2025-02-22 14:14:10 +0000",
       "minecraft:zombie_villager": "2025-01-05 21:46:49 +0000"
     },
     "done": false
@@ -2758,6 +2759,12 @@
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2025-02-22 02:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-02-22 14:14:32 +0000"
     },
     "done": true
   },
