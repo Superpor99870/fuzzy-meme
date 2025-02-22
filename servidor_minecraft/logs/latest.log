@@ -95,3 +95,16 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [01:29:08] [Server thread/INFO]: Akukis[/172.30.156.190:59100] logged in with entity id 99 at (94.68489341525796, 767.0, 20.12828630777497)
 [01:29:08] [Server thread/INFO]: Akukis joined the game
 [01:29:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[02:21:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-76, y=56, z=-71} class_2338{x=-76, y=55, z=-72}
+[02:21:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-76, y=56, z=-71} class_2338{x=-76, y=55, z=-72}
+[02:23:36] [Server thread/INFO]: siganconsumiendo[/172.30.56.168:53049] logged in with entity id 6747 at (-732.8599721792634, 38.0, -3858.699999988079)
+[02:23:36] [Server thread/INFO]: siganconsumiendo joined the game
+[02:23:42] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[02:25:57] [Server thread/INFO]: Akukis was slain by Magma Cube
+[02:26:01] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[02:26:17] [Server thread/INFO]: Akukis tried to swim in lava to escape Magma Cube
+[02:26:22] [Server thread/INFO]: siganconsumiendo tried to swim in lava to escape Magma Cube
+[02:26:22] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
+[02:26:35] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[02:28:34] [Server thread/INFO]: siganconsumiendo was shot by Akukis
+[02:28:48] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
