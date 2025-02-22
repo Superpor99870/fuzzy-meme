@@ -215,6 +215,7 @@
       "minecraft:witch": "2025-01-10 19:00:37 +0000",
       "minecraft:ender_dragon": "2025-01-11 02:16:55 +0000",
       "minecraft:hoglin": "2025-01-05 21:55:34 +0000",
+      "minecraft:cave_spider": "2025-02-22 03:01:43 +0000",
       "minecraft:piglin": "2025-01-02 22:36:17 +0000",
       "minecraft:stray": "2025-01-10 18:52:21 +0000",
       "minecraft:enderman": "2025-01-11 01:53:22 +0000",
@@ -2742,12 +2743,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2025-02-22 02:24:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
       "has_logs": "2025-02-22 02:17:31 +0000"
@@ -2757,6 +2752,12 @@
   "minecraft:recipes/building_blocks/crimson_hyphae": {
     "criteria": {
       "has_log": "2025-02-22 02:17:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-02-22 02:24:09 +0000"
     },
     "done": true
   },
