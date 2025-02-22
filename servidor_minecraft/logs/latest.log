@@ -1,5 +1,5 @@
-[17:48:52] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.3
-[17:48:52] [main/INFO]: Loading 45 mods:
+[01:28:09] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.3
+[01:28:09] [main/INFO]: Loading 45 mods:
 	- chunky 1.4.16
 	- cloth-config 15.0.140
 	   \-- cloth-basic-math 0.6.1
@@ -57,34 +57,34 @@
 	- java 21
 	- lithium 0.13.1
 	- minecraft 1.21
-[17:48:52] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/fuzzy-meme/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[17:48:53] [main/INFO]: Compatibility level set to JAVA_17
-[17:48:53] [main/INFO]: Loaded configuration file for Lithium: 144 options available, 0 override(s) found
-[17:48:54] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[17:49:06] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:49:06] [main/WARN]: Pack file/amplified-nether-height.zip declared support for versions [16, 41] but declared main format is 15, defaulting to 15
-[17:49:09] [main/INFO]: Loaded 1290 recipes
-[17:49:09] [main/INFO]: Loaded 1399 advancements
-[17:49:10] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.491 ms
-[17:49:10] [Server thread/INFO]: Starting minecraft server version 1.21
-[17:49:10] [Server thread/INFO]: Loading properties
-[17:49:10] [Server thread/INFO]: Default game type: SURVIVAL
-[17:49:10] [Server thread/INFO]: Generating keypair
-[17:49:11] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:49:11] [Server thread/INFO]: Using epoll channel type
-[17:49:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:49:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:49:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:49:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:49:11] [Server thread/INFO]: Preparing level "world"
-[17:49:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:49:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:49:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:49:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:49:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:49:22] [Server thread/INFO]: Time elapsed: 1811 ms
-[17:49:22] [Server thread/INFO]: Done (11.043s)! For help, type "help"
-[17:49:22] [Server thread/ERROR]: Couldn't load server icon
+[01:28:09] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/fuzzy-meme/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[01:28:09] [main/INFO]: Compatibility level set to JAVA_17
+[01:28:10] [main/INFO]: Loaded configuration file for Lithium: 144 options available, 0 override(s) found
+[01:28:11] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[01:28:23] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:28:23] [main/WARN]: Pack file/amplified-nether-height.zip declared support for versions [16, 41] but declared main format is 15, defaulting to 15
+[01:28:26] [main/INFO]: Loaded 1290 recipes
+[01:28:26] [main/INFO]: Loaded 1399 advancements
+[01:28:27] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.498 ms
+[01:28:27] [Server thread/INFO]: Starting minecraft server version 1.21
+[01:28:27] [Server thread/INFO]: Loading properties
+[01:28:27] [Server thread/INFO]: Default game type: SURVIVAL
+[01:28:27] [Server thread/INFO]: Generating keypair
+[01:28:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:28:27] [Server thread/INFO]: Using epoll channel type
+[01:28:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:28:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:28:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:28:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:28:27] [Server thread/INFO]: Preparing level "world"
+[01:28:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:28:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:28:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:28:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:28:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:28:35] [Server thread/INFO]: Time elapsed: 1764 ms
+[01:28:35] [Server thread/INFO]: Done (8.002s)! For help, type "help"
+[01:28:35] [Server thread/ERROR]: Couldn't load server icon
 java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getWidth()" because "$$1" is null
 	at net.minecraft.server.MinecraftServer.method_49387(MinecraftServer.java:874) ~[server-intermediary.jar:?]
 	at java.base/java.util.Optional.flatMap(Optional.java:289) ~[?:?]
@@ -92,92 +92,6 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:667) ~[server-intermediary.jar:?]
 	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[17:49:38] [Server thread/INFO]: Akukis[/172.30.156.190:61461] logged in with entity id 108 at (67.35850914121637, 770.0, 19.399032314693038)
-[17:49:38] [Server thread/INFO]: Akukis joined the game
-[17:49:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
-[17:50:33] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[17:50:39] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[17:50:43] [Server thread/INFO]: [@: Gave 5 [Diamond] to Akukis]
-[17:50:43] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, 48.500000]
-[17:59:51] [Server thread/INFO]: Akukis fell from a high place
-[18:00:54] [Server thread/INFO]: Akukis fell from a high place
-[18:06:29] [Server thread/INFO]: Akukis was slain by Polar Bear
-[18:07:08] [Server thread/INFO]: [Akukis: Teleported Akukis to -190.500000, 1149.000000, -171.500000]
-[18:07:28] [Server thread/INFO]: Villager class_1646['Villager'/3370, l='ServerLevel[world]', x=-176.44, y=1151.61, z=-170.30] died, message: 'Villager was slain by Akukis using [Mañoso]'
-[18:11:53] [Server thread/INFO]: Akukis fell from a high place
-[18:14:28] [Server thread/INFO]: Akukis fell from a high place
-[18:16:10] [Server thread/INFO]: [@: Applied effect Speed to Akukis]
-[18:16:10] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, 48.500000]
-[18:18:07] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[18:18:11] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[18:24:29] [Server thread/INFO]: [Akukis: Gave 64 [Block of Coal] to Akukis]
-[18:27:13] [Server thread/INFO]: [@: Applied effect Speed to Akukis]
-[18:27:13] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, 48.500000]
-[18:34:03] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[18:36:09] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[18:41:13] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[18:41:34] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[18:47:09] [Server thread/INFO]: [@: Gave 5 [Emerald] to Akukis]
-[18:47:09] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, 48.500000]
-[18:47:31] [Server thread/INFO]: [@: Applied effect Health Boost to Akukis]
-[18:47:31] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, 48.500000]
-[18:47:38] [Server thread/INFO]: [@: Applied effect Health Boost to Akukis]
-[18:47:38] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, 48.500000]
-[18:49:43] [Server thread/INFO]: [@: Gave 5 [Diamond] to Akukis]
-[18:49:43] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, 48.500000]
-[18:50:25] [Server thread/INFO]: [@: Gave 5 [Diamond] to Akukis]
-[18:50:25] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, 48.500000]
-[18:50:31] [Server thread/INFO]: [@: Gave 5 [Diamond] to Akukis]
-[18:50:31] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, 48.500000]
-[18:50:34] [Server thread/INFO]: [@: Applied effect Speed to Akukis]
-[18:50:34] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, 48.500000]
-[18:50:37] [Server thread/INFO]: [@: Applied effect Health Boost to Akukis]
-[18:50:37] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, 48.500000]
-[18:50:40] [Server thread/INFO]: [@: Applied effect Speed to Akukis]
-[18:50:40] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, 48.500000]
-[18:56:44] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[18:56:58] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[19:02:49] [Server thread/INFO]: Akukis drowned
-[19:39:12] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[19:40:15] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[19:50:30] [Server thread/INFO]: [@: Gave 128 [Blue Ice] to Akukis]
-[19:52:19] [Server thread/INFO]: [@: Applied effect Health Boost to Akukis]
-[19:52:19] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, 48.500000]
-[19:54:58] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[20:05:16] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[20:08:27] [Server thread/INFO]: [@: Applied effect Speed to Akukis]
-[20:08:27] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, 48.500000]
-[20:08:54] [Server thread/INFO]: [@: Applied effect Health Boost to Akukis]
-[20:08:54] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, 48.500000]
-[20:10:05] [Server thread/INFO]: Akukis fell from a high place
-[20:18:33] [Server thread/INFO]: Akukis fell from a high place
-[20:22:13] [Server thread/INFO]: [@: Applied effect Speed to Akukis]
-[20:22:13] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, 48.500000]
-[20:23:46] [Server thread/INFO]: Akukis was blown up by Creeper
-[20:27:57] [Server thread/INFO]: Akukis lost connection: Disconnected
-[20:27:57] [Server thread/INFO]: Akukis left the game
-[20:31:29] [Server thread/INFO]: Akukis[/172.30.156.190:54192] logged in with entity id 21324 at (67.84034020816384, 767.0, 37.831196744363865)
-[20:31:29] [Server thread/INFO]: Akukis joined the game
-[21:02:28] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Akukis) moved wrongly! 0.41520182635714775
-[21:02:28] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Akukis) moved wrongly! 1.9014170401049881
-[21:02:28] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Akukis) moved wrongly! 3.49352790195571
-[21:02:28] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Akukis) moved wrongly! 5.427838853821953
-[21:02:28] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Akukis) moved too quickly! -7.4900992588844275,0.0,-7.490099258884449
-[21:02:29] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Akukis) moved wrongly! 0.47423225395444035
-[21:02:29] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Akukis) moved wrongly! 0.2787313488254455
-[21:02:29] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Akukis) moved wrongly! 0.2787313488254455
-[21:02:29] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Akukis) moved wrongly! 0.2787313488254455
-[21:02:29] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Akukis) moved wrongly! 0.7341350408609344
-[21:02:29] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Akukis) moved wrongly! 0.7116717807183477
-[21:02:29] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Akukis) moved wrongly! 2.7523120729168715
-[21:02:29] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Akukis) moved wrongly! 2.4501034714574104
-[21:02:29] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Akukis) moved wrongly! 0.8158902258951812
-[21:02:30] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Akukis) moved wrongly! 3.5009962018687304
-[21:02:30] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Akukis) moved wrongly! 3.2030923359860495
-[21:02:30] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Akukis) moved wrongly! 1.8911811132239436
-[21:07:50] [Server thread/INFO]: [Akukis: Set the time to 1000]
-[21:08:31] [Server thread/INFO]: [@: Applied effect Speed to Akukis]
-[21:08:31] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, 48.500000]
-[21:09:55] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[21:11:42] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[21:12:03] [Server thread/INFO]: Akukis fell from a high place
+[01:29:08] [Server thread/INFO]: Akukis[/172.30.156.190:59100] logged in with entity id 99 at (94.68489341525796, 767.0, 20.12828630777497)
+[01:29:08] [Server thread/INFO]: Akukis joined the game
+[01:29:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
