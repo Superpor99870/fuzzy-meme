@@ -112,3 +112,8 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [14:07:00] [Server thread/WARN]: Akukis moved too quickly! -10.067734985930514,-9.07651985027502,-11.36350487313257
 [14:07:11] [Server thread/WARN]: Akukis moved too quickly! -5.17686893788138,-16.93455634491852,0.14197822033611374
 [14:23:12] [Server thread/INFO]: Akukis fell from a high place
+[14:41:44] [Server thread/INFO]: Akukis fell from a high place
+[14:41:58] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[14:42:11] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[14:44:44] [Server thread/INFO]: [@: Applied effect Speed to Akukis]
+[14:44:44] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, 48.500000]
