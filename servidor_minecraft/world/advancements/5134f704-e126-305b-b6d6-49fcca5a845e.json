@@ -2742,5 +2742,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-02-22 02:17:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-02-22 02:17:31 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }
