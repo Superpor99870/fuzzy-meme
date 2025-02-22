@@ -102,3 +102,5 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [19:08:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
 [19:08:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2351ms or 47 ticks behind
 [19:09:40] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[19:22:14] [Server thread/INFO]: Akukis lost connection: Disconnected
+[19:22:14] [Server thread/INFO]: Akukis left the game
