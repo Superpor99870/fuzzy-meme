@@ -1,5 +1,5 @@
-[13:46:46] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.3
-[13:46:47] [main/INFO]: Loading 45 mods:
+[19:06:35] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.3
+[19:06:36] [main/INFO]: Loading 45 mods:
 	- chunky 1.4.16
 	- cloth-config 15.0.140
 	   \-- cloth-basic-math 0.6.1
@@ -57,37 +57,39 @@
 	- java 21
 	- lithium 0.13.1
 	- minecraft 1.21
-[13:46:47] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/fuzzy-meme/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[13:46:47] [main/INFO]: Compatibility level set to JAVA_17
-[13:46:47] [main/INFO]: Loaded configuration file for Lithium: 144 options available, 0 override(s) found
-[13:46:48] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[13:47:01] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[13:47:01] [main/WARN]: Pack file/amplified-nether-height.zip declared support for versions [16, 41] but declared main format is 15, defaulting to 15
-[13:47:04] [main/INFO]: Loaded 1290 recipes
-[13:47:05] [main/INFO]: Loaded 1399 advancements
-[13:47:05] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 6.224 ms
-[13:47:05] [Server thread/INFO]: Starting minecraft server version 1.21
-[13:47:05] [Server thread/INFO]: Loading properties
-[13:47:05] [Server thread/INFO]: Default game type: SURVIVAL
-[13:47:05] [Server thread/INFO]: Generating keypair
-[13:47:05] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:47:06] [Server thread/INFO]: Using epoll channel type
-[13:47:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13:47:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[13:47:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13:47:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[13:47:06] [Server thread/INFO]: Preparing level "world"
-[13:47:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:47:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:47:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:47:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:47:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:47:17] [Server thread/INFO]: Time elapsed: 1990 ms
-[13:47:17] [Server thread/INFO]: Done (11.051s)! For help, type "help"
-[13:47:17] [Server thread/INFO]: Starting GS4 status listener
-[13:47:17] [Server thread/INFO]: Thread Query Listener started
-[13:47:17] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
-[13:47:17] [Server thread/ERROR]: Couldn't load server icon
+[19:06:37] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/fuzzy-meme/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[19:06:38] [main/INFO]: Compatibility level set to JAVA_17
+[19:06:38] [main/INFO]: Loaded configuration file for Lithium: 144 options available, 0 override(s) found
+[19:06:41] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[19:07:01] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:07:02] [main/WARN]: Pack file/amplified-nether-height.zip declared support for versions [16, 41] but declared main format is 15, defaulting to 15
+[19:07:08] [main/INFO]: Loaded 1290 recipes
+[19:07:09] [main/INFO]: Loaded 1399 advancements
+[19:07:10] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 12.97 ms
+[19:07:10] [Server thread/INFO]: Starting minecraft server version 1.21
+[19:07:10] [Server thread/INFO]: Loading properties
+[19:07:10] [Server thread/INFO]: Default game type: SURVIVAL
+[19:07:10] [Server thread/INFO]: Generating keypair
+[19:07:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:07:10] [Server thread/INFO]: Using epoll channel type
+[19:07:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:07:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:07:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:07:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:07:11] [Server thread/INFO]: Preparing level "world"
+[19:07:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:07:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:07:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:07:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:07:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:07:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:07:25] [Worker-Main-1/INFO]: Preparing spawn area: 48%
+[19:07:26] [Server thread/INFO]: Time elapsed: 3508 ms
+[19:07:26] [Server thread/INFO]: Done (15.343s)! For help, type "help"
+[19:07:26] [Server thread/INFO]: Starting GS4 status listener
+[19:07:26] [Server thread/INFO]: Thread Query Listener started
+[19:07:26] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
+[19:07:27] [Server thread/ERROR]: Couldn't load server icon
 java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getWidth()" because "$$1" is null
 	at net.minecraft.server.MinecraftServer.method_49387(MinecraftServer.java:874) ~[server-intermediary.jar:?]
 	at java.base/java.util.Optional.flatMap(Optional.java:289) ~[?:?]
@@ -95,34 +97,8 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:667) ~[server-intermediary.jar:?]
 	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[13:47:23] [Server thread/INFO]: Akukis[/172.30.156.190:50287] logged in with entity id 133 at (43.92500001192093, 0.0, 35.30000001192093)
-[13:47:23] [Server thread/INFO]: Akukis joined the game
-[13:47:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[13:47:31] [Server thread/INFO]: Akukis was killed
-[13:47:31] [Server thread/INFO]: [Akukis: Killed Akukis]
-[13:51:01] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Akukis) moved wrongly! 0.76407913373518
-[13:51:02] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Akukis) moved wrongly! 1.5557361137875176
-[13:51:02] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Akukis) moved wrongly! 2.0511231297566894
-[13:51:02] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Akukis) moved wrongly! 2.3686226589074693
-[13:51:02] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Akukis) moved wrongly! 2.5793169070041984
-[13:52:24] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[13:52:30] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[14:06:57] [Server thread/WARN]: Akukis moved too quickly! -11.65541779234124,-2.9906447232792743,-13.158411805483524
-[14:06:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14946ms or 298 ticks behind
-[14:07:00] [Server thread/WARN]: Akukis moved too quickly! -10.067734985930514,-9.07651985027502,-11.36350487313257
-[14:07:11] [Server thread/WARN]: Akukis moved too quickly! -5.17686893788138,-16.93455634491852,0.14197822033611374
-[14:23:12] [Server thread/INFO]: Akukis fell from a high place
-[14:41:44] [Server thread/INFO]: Akukis fell from a high place
-[14:41:58] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[14:42:11] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[14:44:44] [Server thread/INFO]: [@: Applied effect Speed to Akukis]
-[14:44:44] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, 48.500000]
-[14:48:07] [Server thread/INFO]: Akukis tried to swim in lava
-[14:48:59] [Server thread/INFO]: [@: Applied effect Speed to Akukis]
-[14:48:59] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, 48.500000]
-[14:49:21] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[14:49:32] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[14:56:35] [Server thread/INFO]: Akukis was doomed to fall by Zombie
-[14:59:36] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[15:26:52] [Server thread/INFO]: [@: Applied effect Speed to Akukis]
-[15:26:52] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, 48.500000]
+[19:08:14] [Server thread/INFO]: Akukis[/172.30.156.190:54131] logged in with entity id 137 at (65.14172703029077, 767.0, 30.130492056675166)
+[19:08:15] [Server thread/INFO]: Akukis joined the game
+[19:08:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[19:08:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2351ms or 47 ticks behind
+[19:09:40] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
