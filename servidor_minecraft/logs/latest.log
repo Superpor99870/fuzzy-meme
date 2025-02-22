@@ -124,3 +124,5 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [14:49:32] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
 [14:56:35] [Server thread/INFO]: Akukis was doomed to fall by Zombie
 [14:59:36] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[15:26:52] [Server thread/INFO]: [@: Applied effect Speed to Akukis]
+[15:26:52] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, 48.500000]
