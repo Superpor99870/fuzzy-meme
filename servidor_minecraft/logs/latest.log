@@ -1,5 +1,5 @@
-[21:29:52] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.3
-[21:29:52] [main/INFO]: Loading 45 mods:
+[23:05:29] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.3
+[23:05:30] [main/INFO]: Loading 45 mods:
 	- chunky 1.4.16
 	- cloth-config 15.0.140
 	   \-- cloth-basic-math 0.6.1
@@ -57,38 +57,37 @@
 	- java 21
 	- lithium 0.13.1
 	- minecraft 1.21
-[21:29:54] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/fuzzy-meme/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[21:29:54] [main/INFO]: Compatibility level set to JAVA_17
-[21:29:55] [main/INFO]: Loaded configuration file for Lithium: 144 options available, 0 override(s) found
-[21:29:56] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[21:30:17] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:30:18] [main/WARN]: Pack file/amplified-nether-height.zip declared support for versions [16, 41] but declared main format is 15, defaulting to 15
-[21:30:24] [main/INFO]: Loaded 1290 recipes
-[21:30:24] [main/INFO]: Loaded 1399 advancements
-[21:30:25] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 6.408 ms
-[21:30:25] [Server thread/INFO]: Starting minecraft server version 1.21
-[21:30:25] [Server thread/INFO]: Loading properties
-[21:30:25] [Server thread/INFO]: Default game type: SURVIVAL
-[21:30:25] [Server thread/INFO]: Generating keypair
-[21:30:26] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:30:26] [Server thread/INFO]: Using epoll channel type
-[21:30:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:30:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:30:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:30:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:30:27] [Server thread/INFO]: Preparing level "world"
-[21:30:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:30:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:30:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:30:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:30:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:30:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:30:38] [Server thread/INFO]: Time elapsed: 2836 ms
-[21:30:38] [Server thread/INFO]: Done (11.850s)! For help, type "help"
-[21:30:38] [Server thread/INFO]: Starting GS4 status listener
-[21:30:39] [Server thread/INFO]: Thread Query Listener started
-[21:30:39] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
-[21:30:39] [Server thread/ERROR]: Couldn't load server icon
+[23:05:30] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/fuzzy-meme/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[23:05:30] [main/INFO]: Compatibility level set to JAVA_17
+[23:05:31] [main/INFO]: Loaded configuration file for Lithium: 144 options available, 0 override(s) found
+[23:05:33] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[23:05:54] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:05:55] [main/WARN]: Pack file/amplified-nether-height.zip declared support for versions [16, 41] but declared main format is 15, defaulting to 15
+[23:05:57] [main/INFO]: Loaded 1290 recipes
+[23:05:58] [main/INFO]: Loaded 1399 advancements
+[23:05:58] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 2.325 ms
+[23:05:58] [Server thread/INFO]: Starting minecraft server version 1.21
+[23:05:58] [Server thread/INFO]: Loading properties
+[23:05:58] [Server thread/INFO]: Default game type: SURVIVAL
+[23:05:58] [Server thread/INFO]: Generating keypair
+[23:05:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:05:59] [Server thread/INFO]: Using epoll channel type
+[23:05:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:05:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:05:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:05:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:05:59] [Server thread/INFO]: Preparing level "world"
+[23:06:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:06:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:06:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:06:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:06:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:06:08] [Server thread/INFO]: Time elapsed: 1757 ms
+[23:06:08] [Server thread/INFO]: Done (9.562s)! For help, type "help"
+[23:06:08] [Server thread/INFO]: Starting GS4 status listener
+[23:06:08] [Server thread/INFO]: Thread Query Listener started
+[23:06:08] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
+[23:06:08] [Server thread/ERROR]: Couldn't load server icon
 java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getWidth()" because "$$1" is null
 	at net.minecraft.server.MinecraftServer.method_49387(MinecraftServer.java:874) ~[server-intermediary.jar:?]
 	at java.base/java.util.Optional.flatMap(Optional.java:289) ~[?:?]
@@ -96,28 +95,16 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:667) ~[server-intermediary.jar:?]
 	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[21:30:55] [Server thread/INFO]: Akukis[/172.30.156.190:56630] logged in with entity id 215 at (54.616125362269806, 767.0, 45.86422954020545)
-[21:30:55] [Server thread/INFO]: Akukis joined the game
-[21:31:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
-[21:31:12] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[21:31:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3543ms or 70 ticks behind
-[21:32:33] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[21:33:17] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[22:12:40] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[22:12:44] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[22:16:35] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[22:38:20] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[22:47:35] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[22:48:46] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[22:49:24] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[22:59:15] [Server thread/INFO]: Akukis fell from a high place
-[23:00:27] [IO-Worker-42/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 394 chunks (0.10%), ETA: 0:01:39, Rate: 3940.0 cps, Current: 11, 26
-[23:00:28] [IO-Worker-42/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 753 chunks (0.19%), ETA: 0:09:34, Rate: 683.3 cps, Current: 28, 14
-[23:00:29] [IO-Worker-37/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1681 chunks (0.43%), ETA: 0:08:24, Rate: 775.7 cps, Current: 61, 31
-[23:00:42] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2253 chunks (0.57%), ETA: 0:44:07, Rate: 147.7 cps, Current: 13, 29
-[23:00:44] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2254 chunks (0.57%), ETA: 0:50:00, Rate: 130.3 cps, Current: 14, 29
-[23:00:45] [IO-Worker-39/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2816 chunks (0.72%), ETA: 0:42:19, Rate: 153.7 cps, Current: 60, -22
-[23:00:46] [IO-Worker-41/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 3807 chunks (0.97%), ETA: 0:32:56, Rate: 197.0 cps, Current: 31, -14
-[23:00:49] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 3813 chunks (0.97%), ETA: 0:38:51, Rate: 167.0 cps, Current: 44, -17
-[23:00:50] [IO-Worker-37/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 3850 chunks (0.98%), ETA: 0:40:10, Rate: 161.5 cps, Current: 27, -18
-[23:00:51] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 3921 chunks (1.00%), ETA: 0:41:12, Rate: 157.4 cps, Current: 30, -20
+[23:06:29] [Server thread/INFO]: Akukis[/172.30.156.190:57511] logged in with entity id 224 at (84.03139438649121, 759.0, 34.19501323327162)
+[23:06:29] [Server thread/INFO]: Akukis joined the game
+[23:06:30] [Server thread/WARN]: UUID of added entity already exists: class_1428['Chicken'/228, l='ServerLevel[world]', x=64.16, y=766.94, z=35.41]
+[23:06:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[23:11:55] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[23:13:30] [Server thread/INFO]: [Akukis: Gave 1 [Netherite Axe] to Akukis]
+[23:15:20] [Server thread/INFO]: Akukis fell from a high place
+[23:16:13] [Server thread/INFO]: Akukis fell from a high place
+[23:16:37] [Server thread/INFO]: [Akukis: Gave 1 [Water Bucket] to Akukis]
+[23:16:53] [Server thread/INFO]: Akukis fell from a high place
+[23:16:59] [Server thread/INFO]: [Akukis: Gave 1 [Water Bucket] to Akukis]
+[23:18:00] [Server thread/INFO]: Akukis fell from a high place
+[23:19:28] [Server thread/INFO]: Akukis fell from a high place
