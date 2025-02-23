@@ -110,3 +110,14 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [22:47:35] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
 [22:48:46] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
 [22:49:24] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[22:59:15] [Server thread/INFO]: Akukis fell from a high place
+[23:00:27] [IO-Worker-42/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 394 chunks (0.10%), ETA: 0:01:39, Rate: 3940.0 cps, Current: 11, 26
+[23:00:28] [IO-Worker-42/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 753 chunks (0.19%), ETA: 0:09:34, Rate: 683.3 cps, Current: 28, 14
+[23:00:29] [IO-Worker-37/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 1681 chunks (0.43%), ETA: 0:08:24, Rate: 775.7 cps, Current: 61, 31
+[23:00:42] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2253 chunks (0.57%), ETA: 0:44:07, Rate: 147.7 cps, Current: 13, 29
+[23:00:44] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2254 chunks (0.57%), ETA: 0:50:00, Rate: 130.3 cps, Current: 14, 29
+[23:00:45] [IO-Worker-39/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 2816 chunks (0.72%), ETA: 0:42:19, Rate: 153.7 cps, Current: 60, -22
+[23:00:46] [IO-Worker-41/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 3807 chunks (0.97%), ETA: 0:32:56, Rate: 197.0 cps, Current: 31, -14
+[23:00:49] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 3813 chunks (0.97%), ETA: 0:38:51, Rate: 167.0 cps, Current: 44, -17
+[23:00:50] [IO-Worker-37/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 3850 chunks (0.98%), ETA: 0:40:10, Rate: 161.5 cps, Current: 27, -18
+[23:00:51] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 3921 chunks (1.00%), ETA: 0:41:12, Rate: 157.4 cps, Current: 30, -20
