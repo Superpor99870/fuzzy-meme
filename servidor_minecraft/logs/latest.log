@@ -103,3 +103,6 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [21:31:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3543ms or 70 ticks behind
 [21:32:33] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
 [21:33:17] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[22:12:40] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[22:12:44] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[22:16:35] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
