@@ -1,5 +1,5 @@
-[00:41:14] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.3
-[00:41:15] [main/INFO]: Loading 45 mods:
+[21:29:52] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.3
+[21:29:52] [main/INFO]: Loading 45 mods:
 	- chunky 1.4.16
 	- cloth-config 15.0.140
 	   \-- cloth-basic-math 0.6.1
@@ -57,43 +57,38 @@
 	- java 21
 	- lithium 0.13.1
 	- minecraft 1.21
-[00:41:17] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/fuzzy-meme/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[00:41:17] [main/INFO]: Compatibility level set to JAVA_17
-[00:41:17] [main/INFO]: Loaded configuration file for Lithium: 144 options available, 0 override(s) found
-[00:41:19] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[00:41:42] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:41:45] [main/WARN]: Pack file/amplified-nether-height.zip declared support for versions [16, 41] but declared main format is 15, defaulting to 15
-[00:41:50] [main/INFO]: Loaded 1290 recipes
-[00:41:50] [main/INFO]: Loaded 1399 advancements
-[00:41:52] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 13.50 ms
-[00:41:52] [Server thread/INFO]: Starting minecraft server version 1.21
-[00:41:52] [Server thread/INFO]: Loading properties
-[00:41:52] [Server thread/INFO]: Default game type: SURVIVAL
-[00:41:52] [Server thread/INFO]: Generating keypair
-[00:41:52] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:41:52] [Server thread/INFO]: Using epoll channel type
-[00:41:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:41:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:41:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:41:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:41:53] [Server thread/INFO]: Preparing level "world"
-[00:42:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:42:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:42:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:42:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:42:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:42:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:42:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:42:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:42:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:42:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:42:07] [Worker-Main-1/INFO]: Preparing spawn area: 63%
-[00:42:07] [Server thread/INFO]: Time elapsed: 5060 ms
-[00:42:07] [Server thread/INFO]: Done (14.150s)! For help, type "help"
-[00:42:07] [Server thread/INFO]: Starting GS4 status listener
-[00:42:07] [Server thread/INFO]: Thread Query Listener started
-[00:42:07] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
-[00:42:08] [Server thread/ERROR]: Couldn't load server icon
+[21:29:54] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/fuzzy-meme/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[21:29:54] [main/INFO]: Compatibility level set to JAVA_17
+[21:29:55] [main/INFO]: Loaded configuration file for Lithium: 144 options available, 0 override(s) found
+[21:29:56] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[21:30:17] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:30:18] [main/WARN]: Pack file/amplified-nether-height.zip declared support for versions [16, 41] but declared main format is 15, defaulting to 15
+[21:30:24] [main/INFO]: Loaded 1290 recipes
+[21:30:24] [main/INFO]: Loaded 1399 advancements
+[21:30:25] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 6.408 ms
+[21:30:25] [Server thread/INFO]: Starting minecraft server version 1.21
+[21:30:25] [Server thread/INFO]: Loading properties
+[21:30:25] [Server thread/INFO]: Default game type: SURVIVAL
+[21:30:25] [Server thread/INFO]: Generating keypair
+[21:30:26] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:30:26] [Server thread/INFO]: Using epoll channel type
+[21:30:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:30:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:30:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:30:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:30:27] [Server thread/INFO]: Preparing level "world"
+[21:30:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:30:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:30:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:30:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:30:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:30:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:30:38] [Server thread/INFO]: Time elapsed: 2836 ms
+[21:30:38] [Server thread/INFO]: Done (11.850s)! For help, type "help"
+[21:30:38] [Server thread/INFO]: Starting GS4 status listener
+[21:30:39] [Server thread/INFO]: Thread Query Listener started
+[21:30:39] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
+[21:30:39] [Server thread/ERROR]: Couldn't load server icon
 java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getWidth()" because "$$1" is null
 	at net.minecraft.server.MinecraftServer.method_49387(MinecraftServer.java:874) ~[server-intermediary.jar:?]
 	at java.base/java.util.Optional.flatMap(Optional.java:289) ~[?:?]
@@ -101,215 +96,10 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:667) ~[server-intermediary.jar:?]
 	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[00:42:24] [Server thread/INFO]: Akukis[/172.30.156.190:55432] logged in with entity id 143 at (69.71739730448165, 778.0, 31.849489554201934)
-[00:42:25] [Server thread/INFO]: Akukis joined the game
-[00:42:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2452ms or 49 ticks behind
-[00:42:31] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[00:42:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5109ms or 102 ticks behind
-[00:44:08] [Server thread/INFO]: siganconsumiendo[/172.30.56.168:52021] logged in with entity id 467 at (43.92500001192093, 0.0, 35.30000001192093)
-[00:44:08] [Server thread/INFO]: siganconsumiendo joined the game
-[00:44:09] [Server thread/INFO]: [@: Applied effect Speed to 2 targets]
-[00:44:09] [Server thread/INFO]: [@: Teleported 2 entities to 54.500000, 767.000000, 48.500000]
-[00:44:21] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
-[00:48:18] [Server thread/INFO]: siganconsumiendo has made the advancement [Star Trader]
-[00:48:18] [Server thread/INFO]: siganconsumiendo has made the advancement [What a Deal!]
-[00:49:40] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
-[00:51:17] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
-[00:51:36] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
-[00:52:14] [Server thread/INFO]: Akukis was shot by Skeleton
-[00:52:56] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
-[00:56:02] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
-[00:56:50] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
-[00:58:41] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
-[01:04:47] [Server thread/INFO]: Muchovicio[/172.30.140.219:60688] logged in with entity id 3783 at (-4.5, 763.0, -2.5)
-[01:04:47] [Server thread/INFO]: Muchovicio joined the game
-[01:05:05] [Server thread/INFO]: [Akukis: Teleported Akukis to Muchovicio]
-[01:05:31] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
-[01:06:40] [Server thread/INFO]: [Akukis: Teleported Akukis to Muchovicio]
-[01:09:15] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
-[01:09:34] [Server thread/INFO]: siganconsumiendo fell from a high place
-[01:09:57] [Server thread/WARN]: Cherry Boat with Chest (vehicle of Akukis) moved wrongly! 0.47831012534338413
-[01:10:47] [Server thread/INFO]: Muchovicio has made the advancement [A Seedy Place]
-[01:11:08] [Server thread/INFO]: [Akukis: Gave 64 [Obsidian] to Akukis]
-[01:13:27] [Server thread/INFO]: Muchovicio has made the advancement [Sweet Dreams]
-[01:17:02] [Server thread/INFO]: Akukis tried to swim in lava
-[01:17:51] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
-[01:22:17] [Server thread/INFO]: [Akukis: Teleported Akukis to Muchovicio]
-[01:26:14] [Server thread/INFO]: [@: Gave 5 [Emerald] to 3]
-[01:26:14] [Server thread/INFO]: [@: Teleported 3 entities to 54.500000, 767.000000, 48.500000]
-[01:26:36] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[01:26:59] [Server thread/INFO]: [@: Teleported 3 entities to 54.500000, 767.000000, 48.500000]
-[01:27:16] [Server thread/INFO]: [@: Teleported 3 entities to 54.500000, 767.000000, 48.500000]
-[01:27:36] [Server thread/INFO]: [@: Teleported 3 entities to 54.500000, 767.000000, 48.500000]
-[01:28:03] [Server thread/INFO]: [@: Teleported 3 entities to 54.500000, 767.000000, 48.500000]
-[01:28:40] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[01:29:36] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
-[01:29:38] [Server thread/INFO]: [@: Teleported 3 entities to 54.500000, 767.000000, 48.500000]
-[01:30:11] [Server thread/INFO]: Muchovicio has made the advancement [Acquire Hardware]
-[01:30:47] [Server thread/INFO]: [Akukis: Set the time to 1000]
-[01:30:47] [Server thread/INFO]: Muchovicio has made the advancement [Monster Hunter]
-[01:31:58] [Server thread/INFO]: [Akukis: Teleported Akukis to Muchovicio]
-[01:32:27] [Server thread/INFO]: [Akukis: Gave 64 [Uncraftable Tipped Arrow] to Akukis]
-[01:33:51] [Server thread/INFO]: [Not Secure] <siganconsumiendo> hola
-[01:34:26] [Server thread/INFO]: [Akukis: Teleported Akukis to Muchovicio]
-[01:35:14] [Server thread/INFO]: Muchovicio has made the advancement [Isn't It Iron Pick]
-[01:35:15] [Server thread/INFO]: [Akukis: Teleported Akukis to Muchovicio]
-[01:35:47] [Server thread/INFO]: [@: Teleported 3 entities to 54.500000, 767.000000, 48.500000]
-[01:36:26] [Server thread/INFO]: siganconsumiendo was shot by Akukis
-[01:38:26] [Server thread/INFO]: Muchovicio has made the advancement [Stone Age]
-[01:38:34] [Server thread/INFO]: [Akukis: Teleported Akukis to Muchovicio]
-[01:38:45] [Server thread/INFO]: Muchovicio has made the advancement [Cover Me with Diamonds]
-[01:39:39] [Server thread/INFO]: [Akukis: Teleported Akukis to Muchovicio]
-[01:40:15] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
-[01:40:22] [Server thread/INFO]: Muchovicio was doomed to fall by siganconsumiendo
-[01:40:30] [Server thread/WARN]: siganconsumiendo moved too quickly! 0.5451633092594079,-10.516181541923743,0.18691931935417472
-[01:40:44] [Server thread/INFO]: siganconsumiendo fell from a high place
-[01:40:47] [Server thread/INFO]: [Akukis: Teleported Muchovicio to Akukis]
-[01:43:33] [Server thread/INFO]: [Akukis: Set the time to 1000]
-[01:44:56] [Server thread/INFO]: [Akukis: Gamerule drowningDamage is now set to: true]
-[01:45:37] [Server thread/INFO]: [Akukis: Teleported Akukis to Muchovicio]
-[01:45:46] [Server thread/INFO]: Akukis fell from a high place
-[01:46:43] [Server thread/INFO]: Muchovicio has made the advancement [Take Aim]
-[01:47:13] [Server thread/INFO]: [Akukis: Gamerule projectilesCanBreakBlocks is now set to: true]
-[01:47:42] [Server thread/INFO]: [Akukis: Gamerule projectilesCanBreakBlocks is now set to: false]
-[01:48:18] [Server thread/INFO]: [Akukis: Gamerule universalAnger is now set to: true]
-[01:48:31] [Server thread/INFO]: [Akukis: Gamerule universalAnger is now set to: false]
-[01:48:39] [Server thread/INFO]: [Akukis: Teleported Akukis to Muchovicio]
-[01:48:55] [Server thread/WARN]: Muchovicio moved too quickly! -0.3651459074434058,-10.65319023116217,-0.13408210770305828
-[01:49:04] [Server thread/WARN]: Muchovicio moved too quickly! 0.5113156028187404,-12.064501339493631,0.46067605630896935
-[01:49:09] [Server thread/WARN]: Muchovicio moved too quickly! 0.0,-10.972322721926446,0.0
-[01:49:15] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
-[01:49:30] [Server thread/INFO]: [Akukis: Teleported Muchovicio to Akukis]
-[01:49:42] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
-[01:49:44] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[01:50:16] [Server thread/INFO]: siganconsumiendo was burned to a crisp while fighting Akukis
-[01:50:24] [Server thread/INFO]: siganconsumiendo was shot by Akukis
-[01:50:33] [Server thread/INFO]: siganconsumiendo was shot by Akukis
-[01:51:13] [Server thread/INFO]: Muchovicio drowned
-[01:52:10] [Server thread/INFO]: [Akukis: Gave 1 [Netherite Pickaxe] to Akukis]
-[01:52:33] [Server thread/INFO]: Muchovicio has made the advancement [Star Trader]
-[01:52:33] [Server thread/INFO]: Muchovicio has made the advancement [What a Deal!]
-[01:52:46] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[01:52:59] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[01:53:03] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
-[01:53:22] [Server thread/INFO]: siganconsumiendo was slain by Akukis using [Pico pica culo de minion]
-[01:54:05] [Server thread/WARN]: siganconsumiendo moved too quickly! 0.7063197454253114,-17.374415053353346,-1.0331507543862317
-[01:54:07] [Server thread/WARN]: siganconsumiendo moved too quickly! -0.19889958280152698,-12.708162068455465,-1.2440628576644215
-[01:54:10] [Server thread/INFO]: siganconsumiendo fell from a high place
-[01:54:51] [Server thread/INFO]: siganconsumiendo was shot by Muchovicio
-[01:56:13] [Server thread/INFO]: [Akukis: Teleported Akukis to Muchovicio]
-[01:56:37] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
-[01:57:38] [Server thread/INFO]: siganconsumiendo was shot by Akukis
-[01:59:05] [Server thread/INFO]: [Akukis: Teleported Akukis to Muchovicio]
-[02:00:37] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
-[02:00:43] [Server thread/INFO]: siganconsumiendo was burned to a crisp while fighting Akukis
-[02:01:31] [Server thread/INFO]: [Akukis: Gamerule keepInventory is now set to: false]
-[02:01:42] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
-[02:01:46] [Server thread/INFO]: siganconsumiendo was slain by Akukis using [Mañoso]
-[02:01:57] [Server thread/INFO]: [Akukis: Gamerule keepInventory is now set to: true]
-[02:02:37] [Server thread/INFO]: siganconsumiendo was slain by Akukis using [Mañoso]
-[02:03:03] [Server thread/INFO]: [Akukis: Teleported Akukis to Muchovicio]
-[02:04:10] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
-[02:04:19] [Server thread/INFO]: siganconsumiendo was burned to a crisp while fighting Akukis
-[02:04:42] [Server thread/INFO]: siganconsumiendo was slain by Akukis using [Pico pica culo de minion]
-[02:05:58] [Server thread/INFO]: siganconsumiendo was slain by Akukis
-[02:06:11] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
-[02:06:24] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
-[02:06:28] [Server thread/INFO]: siganconsumiendo was burned to a crisp while fighting Akukis
-[02:07:01] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
-[02:07:12] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
-[02:07:20] [Server thread/INFO]: siganconsumiendo was burned to a crisp while fighting Akukis
-[02:07:55] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
-[02:08:06] [Server thread/INFO]: siganconsumiendo was shot by Akukis
-[02:08:19] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Muchovicio]
-[02:08:19] [Server thread/INFO]: Villager class_1646['Armorer'/219, l='ServerLevel[world]', x=98.50, y=767.00, z=-1.27] died, message: 'Armorer was shot by siganconsumiendo'
-[02:08:47] [Server thread/INFO]: Akukis fell from a high place
-[02:08:51] [Server thread/WARN]: siganconsumiendo moved too quickly! 0.21976309472586664,-10.552241243705566,-0.044218759242511396
-[02:08:59] [Server thread/INFO]: [Akukis: Teleported Akukis to Muchovicio]
-[02:09:01] [Server thread/INFO]: [Akukis: Teleported Akukis to Muchovicio]
-[02:09:04] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Muchovicio]
-[02:09:25] [Server thread/INFO]: siganconsumiendo was shot by Akukis
-[02:09:45] [Server thread/INFO]: Muchovicio was burned to a crisp while fighting siganconsumiendo
-[02:09:53] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Muchovicio]
-[02:09:58] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
-[02:10:07] [Server thread/INFO]: siganconsumiendo was slain by Akukis using [Mañoso]
-[02:10:24] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to 0.500000, 9999999.000000, 0.500000]
-[02:10:44] [Server thread/INFO]: siganconsumiendo was shot by siganconsumiendo
-[02:10:50] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to 0.500000, 9999999.000000, 0.500000]
-[02:11:04] [Server thread/INFO]: siganconsumiendo was shot by siganconsumiendo
-[02:11:05] [Server thread/WARN]: siganconsumiendo moved too quickly! 0.11591366994456087,-23.42859584465623,0.6082809101677871
-[02:11:06] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to 0.500000, 9999999.000000, 0.500000]
-[02:11:10] [Server thread/INFO]: siganconsumiendo lost connection: Disconnected
-[02:11:10] [Server thread/INFO]: siganconsumiendo left the game
-[02:11:26] [Server thread/INFO]: siganconsumiendo[/172.30.56.168:52290] logged in with entity id 18311 at (1.5710461558365658, 9999948.669854393, 0.4913166333522956)
-[02:11:26] [Server thread/INFO]: siganconsumiendo joined the game
-[02:11:27] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Muchovicio]
-[02:11:27] [Server thread/INFO]: siganconsumiendo fell from a high place
-[02:11:49] [Server thread/INFO]: siganconsumiendo was killed while trying to hurt Akukis
-[02:12:03] [Server thread/INFO]: siganconsumiendo was burned to a crisp while fighting Akukis
-[02:12:14] [Server thread/INFO]: siganconsumiendo was slain by Muchovicio using [Pico pica culo de minion]
-[02:13:03] [Server thread/INFO]: siganconsumiendo was shot by Akukis
-[02:13:10] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Muchovicio]
-[02:13:17] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
-[02:13:33] [Server thread/INFO]: siganconsumiendo was shot by Akukis
-[02:14:00] [Server thread/INFO]: Muchovicio was slain by siganconsumiendo
-[02:14:01] [Server thread/INFO]: [Akukis: Gave 1 [Light Blue Bed] to siganconsumiendo]
-[02:14:06] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
-[02:14:49] [Server thread/INFO]: siganconsumiendo was slain by Muchovicio using [Pico pica culo de minion]
-[02:15:17] [Server thread/INFO]: [Akukis: Gave 1 [Netherite Sword] to Muchovicio]
-[02:15:26] [Server thread/INFO]: Muchovicio was shot by siganconsumiendo
-[02:15:32] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Muchovicio]
-[02:15:38] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
-[02:15:44] [Server thread/INFO]: siganconsumiendo was doomed to fall by Akukis
-[02:16:04] [Server thread/INFO]: siganconsumiendo was shot by Akukis
-[02:16:18] [Server thread/INFO]: Muchovicio was burned to a crisp while fighting siganconsumiendo
-[02:16:24] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
-[02:16:49] [Server thread/INFO]: siganconsumiendo was slain by Muchovicio using [Pico pica culo de minion]
-[02:17:13] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
-[02:17:15] [Server thread/INFO]: [Not Secure] <Akukis> oe
-[02:17:16] [Server thread/INFO]: Muchovicio was shot by siganconsumiendo
-[02:17:20] [Server thread/INFO]: [Not Secure] <Akukis> muchovicio
-[02:17:24] [Server thread/INFO]: [Not Secure] <Akukis> la llamada
-[02:17:48] [Server thread/INFO]: siganconsumiendo was slain by Akukis using [Mañoso]
-[02:17:59] [Server thread/INFO]: Muchovicio was shot by siganconsumiendo
-[02:18:16] [Server thread/INFO]: [Akukis: Removed 1 item(s) from player siganconsumiendo]
-[02:19:04] [Server thread/INFO]: siganconsumiendo was slain by Akukis using [Mañoso]
-[02:19:47] [Server thread/INFO]: siganconsumiendo was doomed to fall
-[02:20:07] [Server thread/WARN]: Muchovicio moved too quickly! -0.23912416154696103,-14.321037030297362,-0.3949081097838849
-[02:20:09] [Server thread/WARN]: Muchovicio moved too quickly! 0.5583709200034903,-19.50230949346826,0.11479207331919117
-[02:20:13] [Server thread/WARN]: Muchovicio moved too quickly! 0.5252858155389788,-17.253816163407464,-0.36470849791924354
-[02:20:15] [Server thread/WARN]: Muchovicio moved too quickly! 0.9001678973346046,-12.262358999312198,-0.8912379165055775
-[02:20:21] [Server thread/INFO]: siganconsumiendo was burned to a crisp while fighting Akukis
-[02:20:35] [Server thread/INFO]: siganconsumiendo was doomed to fall
-[02:20:47] [Server thread/INFO]: siganconsumiendo was slain by Akukis using [Mañoso]
-[02:21:08] [Server thread/INFO]: siganconsumiendo was shot by Akukis
-[02:21:18] [Server thread/INFO]: [Akukis: Teleported Akukis to Muchovicio]
-[02:21:40] [Server thread/WARN]: Muchovicio moved too quickly! -0.9416515509487056,-11.79800043081434,0.34238015663051957
-[02:22:06] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Muchovicio]
-[02:22:07] [Server thread/INFO]: [Akukis: Teleported Akukis to Muchovicio]
-[02:22:35] [Server thread/INFO]: [Akukis: Teleported Akukis to Muchovicio]
-[02:22:46] [Server thread/INFO]: Muchovicio was slain by Akukis using [Mañoso]
-[02:22:50] [Server thread/INFO]: [Akukis: Teleported Akukis to Muchovicio]
-[02:27:25] [Server thread/INFO]: [Akukis: Gave 1 [Netherite Axe] to Akukis]
-[02:28:00] [Server thread/INFO]: siganconsumiendo was burned to a crisp while fighting Akukis
-[02:28:14] [Server thread/INFO]: Akukis lost connection: Disconnected
-[02:28:14] [Server thread/INFO]: Akukis left the game
-[02:29:00] [Server thread/INFO]: Muchovicio was shot by siganconsumiendo
-[02:29:42] [Server thread/INFO]: [@: Teleported 2 entities to 54.500000, 767.000000, 48.500000]
-[02:29:48] [Server thread/INFO]: siganconsumiendo was slain by Muchovicio
-[02:30:13] [Server thread/INFO]: Muchovicio was burned to a crisp while fighting siganconsumiendo
-[02:30:38] [Server thread/INFO]: siganconsumiendo was slain by Muchovicio
-[02:31:10] [Server thread/INFO]: Muchovicio was shot by siganconsumiendo
-[02:31:32] [Server thread/INFO]: Muchovicio was shot by siganconsumiendo
-[02:31:49] [Server thread/INFO]: siganconsumiendo was slain by Muchovicio
-[02:32:39] [Server thread/INFO]: siganconsumiendo was slain by Muchovicio
-[02:33:32] [Server thread/INFO]: siganconsumiendo was slain by Muchovicio
-[02:33:33] [Server thread/INFO]: Muchovicio was burned to a crisp while fighting siganconsumiendo
-[02:34:03] [Server thread/INFO]: siganconsumiendo was doomed to fall by Muchovicio
-[02:34:22] [Server thread/INFO]: [@: Teleported 2 entities to 54.500000, 767.000000, 48.500000]
-[02:34:29] [Server thread/INFO]: siganconsumiendo was slain by Muchovicio
-[02:34:32] [Server thread/INFO]: siganconsumiendo lost connection: Disconnected
-[02:34:32] [Server thread/INFO]: siganconsumiendo left the game
-[02:35:14] [Server thread/INFO]: [@: Teleported Muchovicio to 54.500000, 767.000000, 48.500000]
-[02:35:28] [Server thread/INFO]: Muchovicio lost connection: Disconnected
-[02:35:28] [Server thread/INFO]: Muchovicio left the game
+[21:30:55] [Server thread/INFO]: Akukis[/172.30.156.190:56630] logged in with entity id 215 at (54.616125362269806, 767.0, 45.86422954020545)
+[21:30:55] [Server thread/INFO]: Akukis joined the game
+[21:31:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[21:31:12] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[21:31:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3543ms or 70 ticks behind
+[21:32:33] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[21:33:17] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
