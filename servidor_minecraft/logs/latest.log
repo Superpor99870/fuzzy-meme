@@ -106,3 +106,4 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [22:12:40] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
 [22:12:44] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
 [22:16:35] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[22:38:20] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
