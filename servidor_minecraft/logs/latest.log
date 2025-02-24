@@ -1,2 +1,26 @@
 [00:53:53] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
 [00:54:04] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[01:03:36] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[01:03:42] [Server thread/INFO]: [@: Teleported Akukis to 54.500000, 767.000000, 48.500000]
+[01:05:12] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[01:08:58] [Server thread/INFO]: siganconsumiendo[/172.30.56.168:51403] logged in with entity id 17164 at (63.5, 771.0, 4.5)
+[01:08:58] [Server thread/INFO]: siganconsumiendo joined the game
+[01:09:09] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[01:15:32] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
+[01:15:46] [Server thread/INFO]: siganconsumiendo was burned to a crisp while fighting Akukis
+[01:16:53] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[01:18:44] [Server thread/INFO]: siganconsumiendo was shot by Akukis
+[01:18:52] [Server thread/INFO]: [Not Secure] <siganconsumiendo> te encanta
+[01:20:17] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[01:24:49] [Server thread/INFO]: [Akukis: Gave 64 [Obsidian] to Akukis]
+[01:25:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=63, y=771, z=2} class_2338{x=65, y=771, z=2}
+[01:29:14] [Server thread/INFO]: Akukis tried to swim in lava
+[01:30:56] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[01:31:03] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[01:31:16] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
+[01:32:49] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to Akukis]
+[01:35:40] [Server thread/INFO]: [Akukis: Gave 128 [Torch] to Akukis]
+[01:36:10] [Server thread/WARN]: siganconsumiendo moved too quickly! 0.22604987420228895,-10.287592896255092,0.13046821584911328
+[01:36:13] [Server thread/WARN]: siganconsumiendo moved too quickly! 0.18169306114683081,-10.867409983895186,0.036535803918965826
+[01:36:19] [Server thread/INFO]: siganconsumiendo fell from a high place
+[01:37:27] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
