@@ -523,6 +523,7 @@
       "minecraft:phantom": "2025-02-24 01:18:20 +0000",
       "minecraft:zombified_piglin": "2025-01-02 18:51:27 +0000",
       "minecraft:witch": "2025-01-03 00:22:26 +0000",
+      "minecraft:ghast": "2025-02-24 01:52:09 +0000",
       "minecraft:hoglin": "2025-01-05 21:55:09 +0000",
       "minecraft:cave_spider": "2025-02-22 03:01:48 +0000",
       "minecraft:piglin": "2025-01-02 23:01:57 +0000",
@@ -2378,6 +2379,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_red_mushroom": "2025-02-24 01:39:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-02-24 01:52:09 +0000"
     },
     "done": true
   },
